@@ -5,7 +5,7 @@ import json
 from motor.motor_asyncio import AsyncIOMotorClient
 import asyncio
 
-config = json.load(open("Bot/config.json"))
+config = json.load(open("credentials/config.json"))
 
 bot = commands.Bot(
     command_prefix="!!",

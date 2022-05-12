@@ -36,11 +36,11 @@ class AnnouncementsDoc:
         Returns:
             Credentials, the obtained credential.
         """
-        store = file.Storage('token.json')
+        store = file.Storage("credentials/token.json")
         credentials = store.get()
 
         if not credentials or credentials.invalid:
-            flow = client.flow_from_clientsecrets('credentials.json', self.SCOPES)
+            flow = client.flow_from_clientsecrets("credentials/credentials.json", self.SCOPES)
             credentials = tools.run_flow(flow, store)
         return credentials
 
@@ -146,7 +146,6 @@ class AnnouncementsJson:
         """Get a certain days announcement"""
         with open("info/a_info.json", "r", encoding="utf8") as file:
             latest_json = json.loads(file.read())
-        # Removing one from the index value
         day -= 1
         keys = list(latest_json.keys)
         return keys[day]
@@ -184,7 +183,7 @@ class Announcements(commands.Cog):
         await self.adoc.organize_doc()
         print("Json saved to info/a_info.json")
 
-    @commands.group()
+    @commands.hybrid_group()
     async def announcements(self, ctx):
         """Show todays announcements"""
         if not ctx.invoked_subcommand:
