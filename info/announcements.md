@@ -5,7 +5,7 @@
 
 **LLCC POETRY COMPETITION** - Thank you for participating in our LLCC Poetry Contest. The first prize winner for a $25 Tim Horton's Gift Card is Marin Shepherd, the second prize winner for a $15 Tim Horton's Gift Card is Emma Braho and the third prize winner for a $10 Tim Horton's Gift Card is Kyra Kaushal. We also have some Honourable Mentions Winners! Kushagra Pant, Andrea Soleil, Lana Ballivan, Abigail Garcia Hernandez and Khushi Kalsi, we have candy or a novel waiting for you too! Come on down to the library today!!!
 
-**GIRLS SOCCER **- Congratulations to the Varsity Girls soccer team for their 5-1 win against Iroquois Ridge Monday. Good luck today in their playoff game against Blakelock!
+**GIRLS SOCCER**- Congratulations to the Varsity Girls soccer team for their 5-1 win against Iroquois Ridge Monday. Good luck today in their playoff game against Blakelock!
 
 ## MONDAY MAY 9 2022
 
@@ -31,8 +31,7 @@
 **FINANCIAL INVESTMENT CLUB** - Would you like to learn more about financial investments? If so, come out to the Financial Investment Club Meeting today (Wednesday) at 3pm in room 209.
 
 **MULTICULTURAL DAY** - This Friday May 6th student council is excited to announce a Greek food truck will be coming to abbey park for multicultural day! Ok forget come out to lunch to by yourself some food and wear your cultures clothing to show off your multiculturalism
-**
-****BOYS SOCCER -**** **Congratulations to the Boys soccer team on their tie yesterday against Nelson. Despite the rain, the boys played with character and composure. The boys play against Hayden for their last home game on Thursday. Also, practice after school is cancelled. See Mr Karbonowski in portable 1 about any questions.
+******BOYS SOCCER******Congratulations to the Boys soccer team on their tie yesterday against Nelson. Despite the rain, the boys played with character and composure. The boys play against Hayden for their last home game on Thursday. Also, practice after school is cancelled. See Mr Karbonowski in portable 1 about any questions.
 
 
 ## TUESDAY MAY 3 2022
@@ -62,13 +61,13 @@ Wesley Meynan (Best Delegate, UN Security Council 2)
 
 **STAFF vs STUDENT BASKETBALL GAME** - Student council is excited to announce there will be a staff v students game on Tuesday March 3rd at lunch in the gym. Tickets are free so come down and bring a friend!
 
-**SR. BOYS RUGBY **- We had a great start to our Senior Boys rugby season last week against TA Blakelock! For the first time in three years our Eagles took to the field to compete in the Halton Tier One league. It was great to see so many new faces out on the pitch. Blakelock took off to an early 7-0 lead before our Eagles came storming back for a resounding 38-7 victory! Tries were scored by Matt Carroll, Quinn Foley, Baseer Zazi, Daniel Lucic and two tries from speedster, Michael Winders. "Man of the Match" honours goes to Quinn Foley who at 6'6" barely looked out of place in the backline serving up dishes of hot potatoes to his backs!
+**SR. BOYS RUGBY**- We had a great start to our Senior Boys rugby season last week against TA Blakelock! For the first time in three years our Eagles took to the field to compete in the Halton Tier One league. It was great to see so many new faces out on the pitch. Blakelock took off to an early 7-0 lead before our Eagles came storming back for a resounding 38-7 victory! Tries were scored by Matt Carroll, Quinn Foley, Baseer Zazi, Daniel Lucic and two tries from speedster, Michael Winders. "Man of the Match" honours goes to Quinn Foley who at 6'6" barely looked out of place in the backline serving up dishes of hot potatoes to his backs!
 
 Next up, our first home game of the season TODAY at 3:30pm vs Hayden. Come cheer the boys on!
 
 **CHESS CLUB**-  after school in the library today. Come by if you want to play chess!
 
-**LINK CREW APPLICATIONS **- Attention Grade 10s and 11s who are interested in applying to be a Link Crew leader. Applications are due today. The application can be found here: https://forms.gle/P6jncoJa2DrSF6ju6. For more information, please contact Ms. Pietryszyn in Student Services.
+**LINK CREW APPLICATIONS**- Attention Grade 10s and 11s who are interested in applying to be a Link Crew leader. Applications are due today. The application can be found here: https://forms.gle/P6jncoJa2DrSF6ju6. For more information, please contact Ms. Pietryszyn in Student Services.
 
 
 ## FRIDAY APRIL 29 2022
@@ -82,12 +81,11 @@ Next up, our first home game of the season TODAY at 3:30pm vs Hayden. Come cheer
 
 **VALEDICTORIAN HOPEFULS** - GRADE 12 students, We are looking for the 2022 VALEDICTORIAN. Please be sure to go to the grade 12 GOOGLE CLASSROOM for all needed updates, information, including the application forms. All this information was also sent home through a letter to you on April 20th. If you have any questions, please email Ms Kronby. Thank you and good luck!
 
-**
-**## WEDNESDAY APRIL 27 2022
+****## WEDNESDAY APRIL 27 2022
 
 **GIRLS TOUCH FOOTBALL** - Any girls wanting to play touch football this year should come to a quick meeting at the start of lunch today in portable 12. The meeting won't last anymore than 10 minutes. 11:00 portable 12 for any girls wanting to play touch football.
 
-**IMPROV CLUB - ** HERE YE HERE YE Improv club will be meeting in the theatre on Friday
+**IMPROV CLUB** HERE YE HERE YE Improv club will be meeting in the theatre on Friday
 
 **ART CLUB** - There will be an art club meeting in the art room today after school. New members are always welcome.
 
@@ -126,7 +124,7 @@ Next up, our first home game of the season TODAY at 3:30pm vs Hayden. Come cheer
 
 **APHS ART CLUB** - If you like arts, or just want to chill out after school and do fun art activities, come check out the APHS Art Club! We meet Wednesdays from 3-4 in the art room. Please enter with the google classroom code ‘ptnf64a’ and follow our instagram @aphs_artclub for updates!
 
-**E-WASTE** - Our recycling drive is today! Make sure to bring your e-waste to the foyer during lunch, we hope to see you there! If you want to learn more about e-waste, check our Instagram at www.instagram.com/ewastejanitors/
+**EWASTE** - Our recycling drive is today! Make sure to bring your e-waste to the foyer during lunch, we hope to see you there! If you want to learn more about e-waste, check our Instagram at www.instagram.com/ewastejanitors/
 
 **TEDxYouth@AbbeyParkHS** is holding the third iteration of our conference! We are excited to announce that it will be taking place FULLY IN-PERSON on May 10th, 2022.
 
@@ -142,9 +140,7 @@ The conference will be a fantastic space to network, be inspired, challenge your
 **ENVIRONMENTAL COUNCIL** - This year, the Environmental Council is hosting a clothing drive and we need your help! Did you know that every second, about one full garbage truck of clothing is burned or dumped into landfills? From April 19-25, you can donate your gently used clothes and textiles by placing them in a bag and putting them in the foyer. For more information, find our posters around the school and @aphseco on Instagram!
 
 **BOYS SOCCER** -  The junior and senior boys will have their final tryout tomorrow, Wednesday, at lunch in the gym. See Mr Karbonowski in portable 1 about any questions.
-**
-****
-****MEDLIFE APHS** is helping to run the Moving Mountains Campaign webinar and power hour this month.
+**********MEDLIFE APHS** is helping to run the Moving Mountains Campaign webinar and power hour this month.
 
 So you may be asking, what is the Moving Mountains Campaign?
 The Moving Mountains campaign is a healthcare provision fundraiser program designed and used exclusively by MEDLIFE International. Moving Mountains hopes to aid impoverished communities and those lacking access to healthcare by bringing Mobile Clinics, patient follow-up services, and health education workshops.
@@ -159,28 +155,27 @@ Comprised of a Webinar and exciting Power Hour session, this fundraiser helps yo
 
 The webinar is this Tuesday, April 19th, 2022 at 6 pm and the Power Hour will be next Tuesday. Looking forward to seeing' you all soon!
 
-**E-WASTE **- If you want to keep recycling e-waste after this weeks drives and are interested in learning more, visit our Instagram @ewastejanitors! One of our recent posts is about finding responsible recyclers.
+**EWASTE**- If you want to keep recycling e-waste after this weeks drives and are interested in learning more, visit our Instagram @ewastejanitors! One of our recent posts is about finding responsible recyclers.
 
 
 ## THURSDAY APRIL 14 2022
 
-**IMPROV **- Here ye here ye improv will not have a meeting this week.
+**IMPROV**- Here ye here ye improv will not have a meeting this week.
 
-**E-WASTE** - When e-waste goes into landfills, all the rare metals in its components are thrown out with it, when means that more mining must be done to obtain new materials for the next line of electronics. It's estimated that 57 billion dollars worth of rare metals like copper, gold and silver are dumped each year due to e-waste alone!
+**EWASTE** - When e-waste goes into landfills, all the rare metals in its components are thrown out with it, when means that more mining must be done to obtain new materials for the next line of electronics. It's estimated that 57 billion dollars worth of rare metals like copper, gold and silver are dumped each year due to e-waste alone!
 If you want to learn more, check out our Instagram at www.instagram.com/ewastejanitors/
 
 ## WEDNESDAY APRIL 13 2022
 
-**BOYS SOCCER - **The senior boys are having a tryout today after school. And the junior boys will have a tryout tomorrow, Thursday, at lunch. Contact Mr Karbonowski about any questions.
+**BOYS SOCCER**The senior boys are having a tryout today after school. And the junior boys will have a tryout tomorrow, Thursday, at lunch. Contact Mr Karbonowski about any questions.
 
 ## TUESDAY APRIL 12 2022
 
 **THE CONNECT TEAM** - has organized a virtual session about Mental Health 101 with BounceBack. Participants will learn about stigma, mental health, and ways to help reduce stress, anxiety and depression. Attend this virtual meeting on Thursday April 14th at 3:30. For more info join the google classroom nnjhogg
 
-**E-WASTE DRIVE** - In 2019, the 17.4% of e-waste that was properly recycled prevented as much as 15 million tonnes of greenhouse gasses from being released into the environment. Help work towards a greener world by bringing in YOUR unused devices to an e-waste drive on April 19th.    Take a moment this week to tune into the media displayed around the school to become educated on e-waste.   An e-waste collection will be held next week during Earth Week, so make sure to bring in your unused electronics.
+**EWASTE DRIVE** - In 2019, the 17.4% of e-waste that was properly recycled prevented as much as 15 million tonnes of greenhouse gasses from being released into the environment. Help work towards a greener world by bringing in YOUR unused devices to an e-waste drive on April 19th.    Take a moment this week to tune into the media displayed around the school to become educated on e-waste.   An e-waste collection will be held next week during Earth Week, so make sure to bring in your unused electronics.
 
-**
-****BOYS SOCCER** - The Senior boys will have their 3rd tryout tomorrow, Wednesday, after school in the gym. If you have any questions come see Mr Karbonowski in portable 1.
+******BOYS SOCCER** - The Senior boys will have their 3rd tryout tomorrow, Wednesday, after school in the gym. If you have any questions come see Mr Karbonowski in portable 1.
 
 **ENVIRONMENT COUNCIL** - Hey Eagles, Abbey Park’s environmental council is hosting an 8 days of green event from April 19th to the 27th. Each day a new fun event will be held to promote climate action. Stay tuned to find out how you can get involved!
 
@@ -192,10 +187,9 @@ If you want to learn more, check out our Instagram at www.instagram.com/ewasteja
 ## MONDAY, APRIL 11, 2022
 
 **SUMMER SCHOOL** - Summer School registration is now open! Please register through your myBlueprint account, Continuing Education. For more information please see the summer school website for Gary Allan High School https://garyallan.ca/high-school-students/secondary-summer-school/
-**
-****ENGINEERING CLUB **- Are you interested in Engineering? Do you want to challenge yourself with exciting activities? If so, come check out the Engineering Club where this week you'll have the chance to build a pneumatic drawbridge! The Engineering Club runs every Monday from 11:30 to 12:10 in room 221. We hope to see you there!  Google Classroom Code: k4rmrqj
+******ENGINEERING CLUB**- Are you interested in Engineering? Do you want to challenge yourself with exciting activities? If so, come check out the Engineering Club where this week you'll have the chance to build a pneumatic drawbridge! The Engineering Club runs every Monday from 11:30 to 12:10 in room 221. We hope to see you there!  Google Classroom Code: k4rmrqj
 
-**EASTER EGG HUNT **- Student Council will be running a school-wide Easter Egg Hunt on Thursday, April 14th. When you come to school in the morning, 100 plastic easter eggs will have been placed around the school - in classrooms, the foyer, obscure rooms, anywhere! Each easter egg will have a chocolate inside of it, but only one special egg will have a "golden ticket" you can bring to the Eagles' Nest during lunch to win a $10 gift card to Tim Horton's! Additionally, whoever finds and brings the most eggs to the Eagles' Nest by the end of lunch will also win a $10 Tim's gift card! Happy searching and Happy Easter from your Student Council :)
+**EASTER EGG HUNT**- Student Council will be running a school-wide Easter Egg Hunt on Thursday, April 14th. When you come to school in the morning, 100 plastic easter eggs will have been placed around the school - in classrooms, the foyer, obscure rooms, anywhere! Each easter egg will have a chocolate inside of it, but only one special egg will have a "golden ticket" you can bring to the Eagles' Nest during lunch to win a $10 gift card to Tim Horton's! Additionally, whoever finds and brings the most eggs to the Eagles' Nest by the end of lunch will also win a $10 Tim's gift card! Happy searching and Happy Easter from your Student Council :)
 
 
 ## FRIDAY, APRIL 8, 2022 
@@ -208,7 +202,7 @@ Next week, the Eagles Nest will be open for those who wish to donate to Positive
 
 ## THURSDAY, APRIL 7, 2022
 
-**COMMUNITY HOURS **-  Hey Abbey Park! We are a group of students who are developing an app that promotes local and national opportunities. Since it’s for youth, we want to know our market more and ask you to fill out this linked survey: https://docs.google.com/forms/d/e/1FAIpQLSetPe6JjQ3nM-eOmBU9Z4LScEjHmT6WJKngy_FRB4DNkWmZSA/viewform?usp=sf_link. By filling out this survey, you will have the chance to win a $10 Tim Hortons Gift Card! Be sure to fill out the form quickly, as it closes this Friday.
+**COMMUNITY HOURS**-  Hey Abbey Park! We are a group of students who are developing an app that promotes local and national opportunities. Since it’s for youth, we want to know our market more and ask you to fill out this linked survey: https://docs.google.com/forms/d/e/1FAIpQLSetPe6JjQ3nM-eOmBU9Z4LScEjHmT6WJKngy_FRB4DNkWmZSA/viewform?usp=sf_link. By filling out this survey, you will have the chance to win a $10 Tim Hortons Gift Card! Be sure to fill out the form quickly, as it closes this Friday.
 
 
 **IMPROV CLUB** - Here ye Here ye there will be no improv club this week
@@ -216,8 +210,7 @@ Next week, the Eagles Nest will be open for those who wish to donate to Positive
 ## WEDNESDAY, APRIL 6, 2022
 
 **GIRLS’ SOFTBALL** - A reminder to everyone who signed up for softball that there is a mandatory meeting today at lunch in the woodshop, room 101. There will also be a newbie practice tomorrow morning at 7 am in the gym. Get your forms in ASAP!
-**
-****FINANCIAL INVESTMENT CLUB** - Do you want to learn about investing in stocks and finance? Would you like to join the APHS Financial Investment Club? Join our Google classroom for more information. Classroom code: 4g7tjea.
+******FINANCIAL INVESTMENT CLUB** - Do you want to learn about investing in stocks and finance? Would you like to join the APHS Financial Investment Club? Join our Google classroom for more information. Classroom code: 4g7tjea.
 
 Vocal Ensemble is cancelled today. See you next week.
 
@@ -245,32 +238,28 @@ https://meet.google.com/epq-optm-ovv
 
 Next week, the Eagles Nest will be open for those who wish to donate to Positive Space Network, a local organization that supports queer mental health, for a donation you will receive a mask, button and sticker to wear to show your support on Friday.
 
-**EAGLE INK - **There will be an Eagle Ink meeting after school today in Room 104 for all editors and photography and art team members. See you there!
+**EAGLE INK**There will be an Eagle Ink meeting after school today in Room 104 for all editors and photography and art team members. See you there!
 
 
 ## THURSDAY MARCH 31 2022
 
-**JUNIOR BOYS SOCCER **- Boys in gr 9 & 10 will have their 2nd tryout today after school in the gym.
+**JUNIOR BOYS SOCCER**- Boys in gr 9 & 10 will have their 2nd tryout today after school in the gym.
 
 Holy Trinity Secondary School has asked that we share with all APHS students that they are unable to have any students/ visitors from outside their school community attend athletic events. There is limited seating capacity at the school and they need to ensure students and families from their school and the opposing school are able to attend these athletic games. Thank you for your understanding.
 
-**
-**## WEDNESDAY MARCH 30 2022
+****## WEDNESDAY MARCH 30 2022
 
-**ART CLUB ** meets today in the art room after school. New members are always welcome.
-**
-****
-****KRISPY KREME** The Abbey Park Dance Team is having a Krispy Kreme fundraiser! Donuts are available to order through cashless or in person in the foyer on Thursday!
+**ART CLUB** meets today in the art room after school. New members are always welcome.
+**********KRISPY KREME** The Abbey Park Dance Team is having a Krispy Kreme fundraiser! Donuts are available to order through cashless or in person in the foyer on Thursday!
 
-**
-****BEAVERTAILS** will be coming to Abbey Park this Friday, April 1st at lunch from 10:30 to 12:30. Make sure to come to the front of the school to buy some beavertails or poutine!
+******BEAVERTAILS** will be coming to Abbey Park this Friday, April 1st at lunch from 10:30 to 12:30. Make sure to come to the front of the school to buy some beavertails or poutine!
 
 
 ## MONDAY MARCH 28 2022
 
 **CRICKET** - Attention any students interested in playing cricket. Whether you already know how to play or want to learn, all are welcome. Please see Miss Weston in the English office for more information.
 
-**GRADE 12 DRAMA PRODUCTION **- Attention Abbey Park, Nobody panic! Have you missed being a part of theatre productions during the pandemic? Well, some of our very own grade 12 students have come together to create and produce an original play this spring! If you’re interested in acting or working behind the scenes on this exciting murder mystery, we’ll be having an info meeting this Friday April 1st at 11:10am during lunch. Hoping to see you there!
+**GRADE 12 DRAMA PRODUCTION**- Attention Abbey Park, Nobody panic! Have you missed being a part of theatre productions during the pandemic? Well, some of our very own grade 12 students have come together to create and produce an original play this spring! If you’re interested in acting or working behind the scenes on this exciting murder mystery, we’ll be having an info meeting this Friday April 1st at 11:10am during lunch. Hoping to see you there!
 
 **BOYS SOCCER** - Boys Soccer. Boys in Gr 9 and 10 will have a tryout on Tuesday after school in the Gym. Also, Boys in Gr 11 and 12 will have a tryout on Wednesday after school in the gym. Bring your signed Athletic Forms. If not, you will not be able to participate. If you need an Athletic Form, come pick one up from Mr K in the French Office.
 
@@ -280,15 +269,14 @@ Holy Trinity Secondary School has asked that we share with all APHS students tha
 
 **APHS DEBATE** is BACK, with new Spring tournaments to come! Including the Second Annual Bayview Glen Tournament, and the Senior National Debating Tournaments. Build on your research and inquiry, quick thinking and presentation skills FAST.   It's never too late to join debate!    Every Monday at 3PM, room 203. New members are always welcome.
 
-**IMPROV MEETING - **** **Here ye here ye improv will have a meeting in the theatre on Friday, today.
-**
-****BOYS SOCCER -** Any boys interested in playing soccer this year, come to a meeting tomorrow in the gym.  That's Friday in the gym at the start of lunch.
+**IMPROV MEETING******Here ye here ye improv will have a meeting in the theatre on Friday, today.
+******BOYS SOCCER** Any boys interested in playing soccer this year, come to a meeting tomorrow in the gym.  That's Friday in the gym at the start of lunch.
 
 **GRADE 12 PROM** - Prom is on this year! We have secured Thursday June 9th at Le Dome. If you would like to assist with the planning, ticket sales, colours, music, photographer, food ... etc ...please come to Rm 217 after school Friday for a brief planning meeting.
 
 ## THURSDAY MARCH 24 2022
 
-**E-WASTE JANITOR RECYCLING DRIVE SURVEY**  - Canada is among the highest sources of E-Waste in the world, leading to heavy metals like mercury polluting the water and air. Part of the problem comes from people not knowing what can be considered E-Waste, leading to much of it ending up thrown in the garbage.
+**EWASTE JANITOR RECYCLING DRIVE SURVEY**  - Canada is among the highest sources of E-Waste in the world, leading to heavy metals like mercury polluting the water and air. Part of the problem comes from people not knowing what can be considered E-Waste, leading to much of it ending up thrown in the garbage.
 
 The E-Waste Janitors will be holding an E-Waste recycling drive, and have a survey to both help us plan better and assist anyone interested in learning what constitutes E-Waste. If you're interested, you can fill it out at bit.ly/ewastejanitors
 
@@ -297,17 +285,14 @@ The E-Waste Janitors will be holding an E-Waste recycling drive, and have a surv
 **EAGLE INK** - will be having a meeting this Friday after school in Room 104 for all writers and editors. See you there!
 
 **GIRLS SLOPITCH** - Girls softball will be having a meeting on Monday March 28th at the beginning of lunch in the woodshop, room 101. All are welcome, no matter your skill level. If you can't come, please contact Mr. Rivard, Ms. Ashley or Ms. Holmberg as soon as possible.
-**
-****IMPROV MEETING - **** **Here ye here ye improv will have a meeting in the theatre on Friday, today.
-**
-****BOYS SOCCER -** Any boys interested in playing soccer this year, come to a meeting tomorrow in the gym.  That's Friday in the gym at the start of lunch.
+******IMPROV MEETING******Here ye here ye improv will have a meeting in the theatre on Friday, today.
+******BOYS SOCCER** Any boys interested in playing soccer this year, come to a meeting tomorrow in the gym.  That's Friday in the gym at the start of lunch.
 
 
 ## WEDNESDAY MARCH 23 2022
 
 **CHESS CLUB** meets today for the first half of lunch in room 211. Come by if you want to play chess!
-**
-****ART CLUB** - If you like arts, or just want to chill out after school and do fun art activities, come check out the APHS Art Club! We meet Wednesdays from 3-4 in the art room. Please enter with the google classroom code ‘ptnf64a’ and follow our instagram @aphs_artclub for updates!
+******ART CLUB** - If you like arts, or just want to chill out after school and do fun art activities, come check out the APHS Art Club! We meet Wednesdays from 3-4 in the art room. Please enter with the google classroom code ‘ptnf64a’ and follow our instagram @aphs_artclub for updates!
 
 ## TUESDAY MARCH 22 2022
 
@@ -318,7 +303,7 @@ The E-Waste Janitors will be holding an E-Waste recycling drive, and have a surv
 
 ## MONDAY MARCH 21 2022 
 
-**GRADE 9 DODGEBALL TOURNAMENT - **tHey Grade nine 9’s! Are you looking to meet new people and have fun? If so, come join us on Wednesday March 30th and Thursday March 31st for a game of dodgeball. There will be permission forms going out on Tuesday the 22nd if you're interested. Make sure they are in by Friday, March 25th.   This is the permission form: https://drive.google.com/file/d/1h2oml5ToM3Zccxa70tXI20IWPEBQHi0r/view?usp=drivesdk
+**GRADE 9 DODGEBALL TOURNAMENT**tHey Grade nine 9’s! Are you looking to meet new people and have fun? If so, come join us on Wednesday March 30th and Thursday March 31st for a game of dodgeball. There will be permission forms going out on Tuesday the 22nd if you're interested. Make sure they are in by Friday, March 25th.   This is the permission form: https://drive.google.com/file/d/1h2oml5ToM3Zccxa70tXI20IWPEBQHi0r/view?usp=drivesdk
 
 
 **APHS CRICKET TEAM** - Calling all students who would like to join the APHS Cricket team. There will be a brief meeting after school on Tuesday March 22 in room 207 - we will then meet in the gym on Wednesday March 23 from 3-4 pm.
@@ -326,15 +311,15 @@ The E-Waste Janitors will be holding an E-Waste recycling drive, and have a surv
 
 ## FRIDAY MARCH 11 2022
 
-**IMPROV **- Here ye here ye improv will have a meeting after school in the theatre today!
+**IMPROV**- Here ye here ye improv will have a meeting after school in the theatre today!
 
 **TRACK & FIELD** - There will be an introductory meeting for all students interested in trying out for the track and field team in room 222 at 11am on Wednesday March 23rd. If you cannot make it, see Ms Grzesik or Mr. Van Klooster in the Science office.
 
 ## THURSDAY MARCH 10 2022
 
-**DANCE TEAM **-  will have a meeting at break in the foods room for all dancers who are competing, see you there!
+**DANCE TEAM**-  will have a meeting at break in the foods room for all dancers who are competing, see you there!
 
-**YWIL INTERNATIONAL WOMEN'S DAY AUCTION **- Thank you to everyone who donated and participated in young women in leadership's silent auction! We were able to raise over 1000 dollars for the Elizabeth Fry non-profit! The winners have been sent an email with more information. You can collect your prizes and donate the prize money Friday at Lunch in the Eagle's Nest.
+**YWIL INTERNATIONAL WOMEN'S DAY AUCTION**- Thank you to everyone who donated and participated in young women in leadership's silent auction! We were able to raise over 1000 dollars for the Elizabeth Fry non-profit! The winners have been sent an email with more information. You can collect your prizes and donate the prize money Friday at Lunch in the Eagle's Nest.
 
 **GIRLS SOCCER** - Attention any girls interested in playing soccer for Abbey Park this spring. Please attend a brief meeting Thursday at 11am in room 105. 
 
@@ -343,7 +328,7 @@ The E-Waste Janitors will be holding an E-Waste recycling drive, and have a surv
 
 **ART CLUB** - If you like arts, or just want to chill out after school and do fun art activities, come check out the APHS Art Club! We meet Wednesdays from 3-4 in the art room. Please enter with the google classroom code ‘ptnf64a’ and follow our instagram @aphs_artclub for updates!
 
-**BOYS RUGBY **- Anyone interested in junior or senior boys rugby this year, meet Mr Lin and Mr Leggatt after school on Wednesday March 9 in the cafeteria.
+**BOYS RUGBY**- Anyone interested in junior or senior boys rugby this year, meet Mr Lin and Mr Leggatt after school on Wednesday March 9 in the cafeteria.
 
 
 ## TUESDAY MARCH 8 2022 
@@ -356,23 +341,20 @@ The E-Waste Janitors will be holding an E-Waste recycling drive, and have a surv
 
 
 ## MONDAY MARCH 7 2022
-**
-****YEARBOOK CLUB -** is meeting today at lunch in room 113. We're still assigning pages, so new members are always welcome.
+******YEARBOOK CLUB** is meeting today at lunch in room 113. We're still assigning pages, so new members are always welcome.
 
-**OAKVILLE TRANSIT **- The Oakville Transit bus strike is over and buses are running normally. Rides are FREE for the rest of March.
-**
-****DIPLOMAT’S SOCIETY **-  meets this Tuesday after school in room 203. Join us for interesting topics and discussion.
-**
-****SILENT AUCTION** - Hey eagles! The Young Women in Leadership Council invites you this Monday and Tuesday to come by the theatre at lunch to participate in our silent auction including Sephora, Bath and Body Works, Starbucks and so much more! All proceeds will go to the Elizabeth Fry Charity!
+**OAKVILLE TRANSIT**- The Oakville Transit bus strike is over and buses are running normally. Rides are FREE for the rest of March.
+******DIPLOMAT’S SOCIETY**-  meets this Tuesday after school in room 203. Join us for interesting topics and discussion.
+******SILENT AUCTION** - Hey eagles! The Young Women in Leadership Council invites you this Monday and Tuesday to come by the theatre at lunch to participate in our silent auction including Sephora, Bath and Body Works, Starbucks and so much more! All proceeds will go to the Elizabeth Fry Charity!
 
 **MEDLIFE** - Come down to the foyer this Tuesday to cast your vote for the best dressed teacher pair! Teachers will be dressed up as famous pairs and you get to decide the winner. All proceeds from the fundraiser will be donated to the Moving Mountains campaign for Medlife. Bring your friends and vote!
 
 
 ## FRIDAY MARCH 4 2022
 
-**BOYS RUGBY **- Anyone interested in junior or senior boys rugby this year, meet Mr Lin and Mr Leggatt after school on Wednesday March 9 in the cafeteria.
+**BOYS RUGBY**- Anyone interested in junior or senior boys rugby this year, meet Mr Lin and Mr Leggatt after school on Wednesday March 9 in the cafeteria.
 
-**THEATRE CLOSED FOR LUNCH** **TODAY **
+**THEATRE CLOSED FOR LUNCH** **TODAY**
 
 
 ## THURSDAY MARCH 3 2022
@@ -383,7 +365,7 @@ The E-Waste Janitors will be holding an E-Waste recycling drive, and have a surv
 
 **ENGINEERING CLUB** - Are you interested in engineering? If so, make sure to come check out the Engineering Club where you can compete in exciting engineering activities. We meet Mondays in room 221 during the second half of break from 11:30 to 12:10, we hope to see you there!    Google Classroom: k4rmrqj
 
-**BEST DRESSED PAIR **- Hey Eagles! MEDLIFE Abbey Park is running their Best Dressed Pair fundraiser on Tuesday, March 8th at lunch. Teachers will be dressed up as famous pairs and you all will have the chance to vote for your favorite costume duo with a toonie in the foyer. We hope to see you there!
+**BEST DRESSED PAIR**- Hey Eagles! MEDLIFE Abbey Park is running their Best Dressed Pair fundraiser on Tuesday, March 8th at lunch. Teachers will be dressed up as famous pairs and you all will have the chance to vote for your favorite costume duo with a toonie in the foyer. We hope to see you there!
 
 **THEATRE CLOSED FOR LUNCH** The theatre will be closed for lunch on Friday March 4 for a Link Crew Meeting.
 
@@ -393,7 +375,7 @@ The E-Waste Janitors will be holding an E-Waste recycling drive, and have a surv
 **PROGRAMMING CLUB** - Do you want to learn to write code and solve problems? Good news: programming club is opening registrations again! If you're interested, you can find more info in the waitlist form linked below: 
 https://forms.gle/Xi6BX92ePGeaEjhy8
 
-**LINK CREW LEADERS **-  there will be a meeting this Friday, March 4 AT LUNCH in the theatre. We will meet from 11:30-12:00 so grab something to eat beforehand. It is very important that everyone attends this meeting - we will be outlining the plan for the rest of the semester and starting our plan for DODGEBALL!
+**LINK CREW LEADERS**-  there will be a meeting this Friday, March 4 AT LUNCH in the theatre. We will meet from 11:30-12:00 so grab something to eat beforehand. It is very important that everyone attends this meeting - we will be outlining the plan for the rest of the semester and starting our plan for DODGEBALL!
 
 **TECH DESIGN** - Are you interested in tech design and looking for a way to express your creativity?   Join us in room 102 on Wednesdays at lunch for our new tech design club!  Our first meeting will be on March 2nd - See you there!
 
@@ -404,8 +386,7 @@ https://forms.gle/Xi6BX92ePGeaEjhy8
 
 
 ## TUESDAY MARCH 1 2022
-**
-****IMPROV **- Here ye here ye improv will have a meeting Friday in the theatre at 3:00 PM
+******IMPROV**- Here ye here ye improv will have a meeting Friday in the theatre at 3:00 PM
 
 
 ## MONDAY FEBRUARY 28 2022
@@ -425,9 +406,9 @@ https://forms.gle/Xi6BX92ePGeaEjhy8
 
 **BREAKFAST SNACKS** - Hey Eagles, did you get up late this morning and missed breakfast? The breakfast carts are out every morning between 7:45 am and 8:15 am - They are full of healthy breakfast items which include yogurts, muffins, cheese, crackers, granola bars, fruit cups and much more. This is for everyone so if you are feeling peckish, please help yourself.
 
-**KRISPY KREME **- Hey eagles! The Environmental Council is having a Krispy Kreme Fundraiser on Thursday March 10th. Boxes of 12 donuts for 10 dollars will be available to order online through school cashless and will be ready for pickup on March 10th during lunch. Ordering will be open until March 3rd. If you would like to pre order, please visit the school cashless website and order before March 3rd.
+**KRISPY KREME**- Hey eagles! The Environmental Council is having a Krispy Kreme Fundraiser on Thursday March 10th. Boxes of 12 donuts for 10 dollars will be available to order online through school cashless and will be ready for pickup on March 10th during lunch. Ordering will be open until March 3rd. If you would like to pre order, please visit the school cashless website and order before March 3rd.
 
-**ATTENTION SHSM **students** **intending to do coop this summer. Please go to the grade 10 and 11 grade google classrooms for more information. Please see Ms Barran if you have any questions. Note this summer coop is only for students in a High Skills Major Program.
+**ATTENTION SHSM**students****intending to do coop this summer. Please go to the grade 10 and 11 grade google classrooms for more information. Please see Ms Barran if you have any questions. Note this summer coop is only for students in a High Skills Major Program.
 
 
 ## FRIDAY FEBRUARY 25 2022
@@ -435,8 +416,7 @@ https://forms.gle/Xi6BX92ePGeaEjhy8
 **IMPROV TEAM** - Here ye here ye there will be an improv meeting in the theatre today
 
 ## THURSDAY FEBRUARY 24 2022 
-**
-**
+****
 **TECH DESIGN** - Are you interested in tech design and looking for a way to express your creativity?   Join us in room 102 on Wednesdays at lunch for our new tech design club!  Our first meeting will be on March 2nd - See you there!
 
 **INTERNATIONAL WOMEN’S DAY SUMMIT** - We invite you to our International Women’s Day Summit! Everyone is welcome. Join the Young Women in Leadership council on Tuesday March 8th @ 9:30am for a fun filled and educational event! 100% of the donations from the event will go towards the non-profit Elizabeth Fry. Tickets will be sold in the eagles nest at APHS from March 1st-4th for $2 each. See you there!
@@ -445,33 +425,33 @@ https://forms.gle/Xi6BX92ePGeaEjhy8
 
 **BREAKFAST SNACKS** - Hey Eagles, did you get up late this morning and missed breakfast? The breakfast carts are out every morning between 7:45 am and 8:15 am - They are full of healthy breakfast items which include yogurts, muffins, cheese, crackers, granola bars, fruit cups and much more. This is for everyone so if you are feeling peckish, please help yourself.
 
-**KRISPY KREME **- Hey eagles! The Environmental Council is having a Krispy Kreme Fundraiser on Thursday March 10th. Boxes of 12 donuts for 10 dollars will be available to order online through school cashless and will be ready for pickup on March 10th during lunch. Ordering will be open until March 3rd. If you would like to pre order, please visit the school cashless website and order before March 3rd.
+**KRISPY KREME**- Hey eagles! The Environmental Council is having a Krispy Kreme Fundraiser on Thursday March 10th. Boxes of 12 donuts for 10 dollars will be available to order online through school cashless and will be ready for pickup on March 10th during lunch. Ordering will be open until March 3rd. If you would like to pre order, please visit the school cashless website and order before March 3rd.
 
-**ATTENTION SHSM **students** **intending to do coop this summer. Please go to the grade 10 and 11 grade google classrooms for more information. Please see Ms Barran if you have any questions. Note this summer coop is only for students in a High Skills Major Program.
+**ATTENTION SHSM**students****intending to do coop this summer. Please go to the grade 10 and 11 grade google classrooms for more information. Please see Ms Barran if you have any questions. Note this summer coop is only for students in a High Skills Major Program.
 
 
 ## WEDNESDAY FEBRUARY 23 2022
 
 **WELLBEING CHALLENGE** - Hey Abbey Park! We need to look after ourselves and others. Ask your teacher about the link to the Student wellbeing challenge to win prizes and take care of ourselves during the pandemic. Your safety and Wellbeing team has created this challenge for you for the next 4 weeks. Be sure to participate and win!
 
-**EAGLE INK **- The school magazine, Eagle Ink, is meeting on Friday after school in portable 7 for those interested in writing. Returning and new members are welcome and in this meeting we will finalize brainstorming and signing up for articles to be written. Do not miss the meeting if you are interested in writing for this semester's issue.
+**EAGLE INK**- The school magazine, Eagle Ink, is meeting on Friday after school in portable 7 for those interested in writing. Returning and new members are welcome and in this meeting we will finalize brainstorming and signing up for articles to be written. Do not miss the meeting if you are interested in writing for this semester's issue.
 
-**VOCAL ENSEMBLE - **A reminder to the Vocal Ensemble that there is practice tonight after school in the music room.
+**VOCAL ENSEMBLE**A reminder to the Vocal Ensemble that there is practice tonight after school in the music room.
 
 
 ## TUESDAY FEBRUARY 22 2021
 
 **INTERNATIONAL WOMEN’S DAY SUMMIT** - We invite you to our International Women’s Day Summit! Everyone is welcome. Join the Young Women in Leadership council on Tuesday March 8th @ 9:30am for a fun filled and educational event! 100% of the donations from the event will go towards the non-profit Elizabeth Fry. Tickets will be sold in the eagles nest at APHS from March 1st-4th for $2 each. See you there!
 
-**LLCC - LIBRARY CLUB -**  This is a quick reminder for those who are part of our new Library Club: the LLCC, to meet in our library, today, Tuesday February 22nd at 3 PM. If you forgot to fill out the Membership Form from our Google Classroom, please do so before the meeting, so you can be put on teams. We're looking forward to working with you. See you soon:)
+**LLCC  LIBRARY CLUB**  This is a quick reminder for those who are part of our new Library Club: the LLCC, to meet in our library, today, Tuesday February 22nd at 3 PM. If you forgot to fill out the Membership Form from our Google Classroom, please do so before the meeting, so you can be put on teams. We're looking forward to working with you. See you soon:)
 
-**PINK SHIRT DAY **- Hey there Eagles! Don't forget that Pink Shirt Day is this Wednesday February 23rd. Please join us and wear pink on Wednesday as a gesture of solidarity against bullying. Pink Shirt Day started in 2007, when David Shepherd and Travis Price organized a protest at their Nova Scotian school, after witnessing a grade 9 boy being bullied for wearing a pink shirt on the first day of classes. The next day, David and Travis distributed pink t-shirts to the student body, wearing them proudly to show support for this student. Thus, this special tradition began and has spread across Canada. Let's make sure we stand up against bullying, not just by what we wear, but by what we say and how we act. Let's support each other and make Abbey Park a safe space for everyone:)
+**PINK SHIRT DAY**- Hey there Eagles! Don't forget that Pink Shirt Day is this Wednesday February 23rd. Please join us and wear pink on Wednesday as a gesture of solidarity against bullying. Pink Shirt Day started in 2007, when David Shepherd and Travis Price organized a protest at their Nova Scotian school, after witnessing a grade 9 boy being bullied for wearing a pink shirt on the first day of classes. The next day, David and Travis distributed pink t-shirts to the student body, wearing them proudly to show support for this student. Thus, this special tradition began and has spread across Canada. Let's make sure we stand up against bullying, not just by what we wear, but by what we say and how we act. Let's support each other and make Abbey Park a safe space for everyone:)
 
 **GRAD PHOTOS** - ATTENTION ALL GRADE 12'S - Grad photos are now taking place in the Library Seminar room - if you have not yet booked your appointment - please email Mrs Sandall (sandallj@hdsb.ca) to get the link to the Pegasus booking site - APPOINTMENTS ARE BOOKING FAST - DON’T DELAY BOOK TODAY!
 
 **BREAKFAST SNACKS** - Hey Eagles, did you get up late this morning and missed breakfast? The breakfast carts are out every morning between 7:45 am and 8:15 am - They are full of healthy breakfast items which include yogurts, muffins, cheese, crackers, granola bars, fruit cups and much more. This is for everyone so if you are feeling peckish, please help yourself.
 
-**KRISPY KREME **- Hey eagles! The Environmental Council is having a Krispy Kreme Fundraiser on Thursday March 10th. Boxes of 12 donuts for 10 dollars will be available to order online through school cashless and will be ready for pickup on March 10th during lunch. Ordering will be open until March 3rd. If you would like to pre order, please visit the school cashless website and order before March 3rd.
+**KRISPY KREME**- Hey eagles! The Environmental Council is having a Krispy Kreme Fundraiser on Thursday March 10th. Boxes of 12 donuts for 10 dollars will be available to order online through school cashless and will be ready for pickup on March 10th during lunch. Ordering will be open until March 3rd. If you would like to pre order, please visit the school cashless website and order before March 3rd.
 
 
 
@@ -479,7 +459,7 @@ https://forms.gle/Xi6BX92ePGeaEjhy8
 
 **APHSCONNECT** is hosting second virtual sessions by HDSB psychologists about how to improve executive functioning to be successful in school today at 3:30. Join the google classroom for the link, code nnjhogg. Go to our instagram for more @aphsconnect
 
-**THE ABBEY PARK DANCE TEAM **-  will have an info meeting on Wednesday Feb 23rd at lunch in the foods room 108. New members are welcome, see you there!
+**THE ABBEY PARK DANCE TEAM**-  will have an info meeting on Wednesday Feb 23rd at lunch in the foods room 108. New members are welcome, see you there!
 
 **GRAD PHOTOS** - ATTENTION ALL GRADE 12'S - Grad photos are now taking place in the Library Seminar room - if you have not yet booked your appointment - please email Mrs Sandall (sandallj@hdsb.ca) to get the link to the Pegasus booking site - APPOINTMENTS ARE BOOKING FAST - DON’T DELAY BOOK TODAY!
 
@@ -492,8 +472,8 @@ https://forms.gle/Xi6BX92ePGeaEjhy8
 
 form link: https://docs.google.com/forms/d/1rHbyDUpWwDBR2p3MlWKwZIxUghq2gNnVksQGLGkiFeo/edit
 
-**OAKVILLE TRANSIT - ** may be going on strike as of 5am tomorrow affecting city bus transportation.  Please check the Oakville Transit or Oakville.ca websites for updates.
-** **
+**OAKVILLE TRANSIT** may be going on strike as of 5am tomorrow affecting city bus transportation.  Please check the Oakville Transit or Oakville.ca websites for updates.
+****
 ## TUESDAY FEBRUARY 2022
 
 **SENIOR REACH** - A big congratulations to the Senior Reach team who won their Tournament this week after a gruelling day with 7 rounds. Yet another Abbey Park success story! Way to go Senior Reach team!
@@ -504,18 +484,15 @@ form link: https://docs.google.com/forms/d/1rHbyDUpWwDBR2p3MlWKwZIxUghq2gNnVksQG
 
 ## MONDAY FEBRUARY 14 2022
 
-**ROSE GRAMS **sales are being extended! You can still purchase a rose for a special someone in the Eagles' Nest for $4 at lunch today, but today will be the last day for sales.
-**
-****
-****RANDOM ACTS OF KINDNESS -  **Hey there Eagles! You're invited to celebrate Random Acts of Kindness day this week in our library. Who needs a Valentine when you can fall in love with a good book instead? "Check out" our Blind Date with a Book Display and when you check out a book this week, we've got a sweet treat just for you! Then have a look at our Random Acts of Kindness display window and fill out a ballot telling us how you're showing kindness and making our world a better place. There will be a Random Acts of Kindness prize draw the following week as a thank you for your thoughtfulness towards others. We look forward to seeing you this week!
+**ROSE GRAMS**sales are being extended! You can still purchase a rose for a special someone in the Eagles' Nest for $4 at lunch today, but today will be the last day for sales.
+**********RANDOM ACTS OF KINDNESS**Hey there Eagles! You're invited to celebrate Random Acts of Kindness day this week in our library. Who needs a Valentine when you can fall in love with a good book instead? "Check out" our Blind Date with a Book Display and when you check out a book this week, we've got a sweet treat just for you! Then have a look at our Random Acts of Kindness display window and fill out a ballot telling us how you're showing kindness and making our world a better place. There will be a Random Acts of Kindness prize draw the following week as a thank you for your thoughtfulness towards others. We look forward to seeing you this week!
 
-**
-****LIBRARY LEARNING COMMONS CONNECTION **- Eagles, you are amazing! The Library Staff wants to thank everyone who came out to the first ever LLCC meeting last week. If you didn't get a chance to make it to our information session, and would like to learn more, join our Google Classroom: Library Learning Commons Connection. Class code: 3kbqc3r. Here's our Invite code: https://classroom.google.com/c/MzczMzcyMzY0NTY5?cjc=3kbqc3r
+******LIBRARY LEARNING COMMONS CONNECTION**- Eagles, you are amazing! The Library Staff wants to thank everyone who came out to the first ever LLCC meeting last week. If you didn't get a chance to make it to our information session, and would like to learn more, join our Google Classroom: Library Learning Commons Connection. Class code: 3kbqc3r. Here's our Invite code: https://classroom.google.com/c/MzczMzcyMzY0NTY5?cjc=3kbqc3r
 You'll have a chance to be creative, raise school spirit and earn volunteer hours. Our next meeting will be on Tuesday February 22nd at 3 PM in our library and we'd love to see you there:)
 
-**VOCAL ENSEMBLE **- The Abbey Park Vocal Ensemble will resume practice this Wednesday Feb 16 at 3 in the music room.
+**VOCAL ENSEMBLE**- The Abbey Park Vocal Ensemble will resume practice this Wednesday Feb 16 at 3 in the music room.
 
-**KRISPY KREME **- Hey eagles! The Environmental Council is having a Krispy Kreme Fundraiser on Thursday March 10th. Boxes of 12 donuts for 10 dollars will be available to order online through school cashless and will be ready for pickup on March 10th during lunch. Ordering will be open until March 3rd. If you would like to pre order, please visit the school cashless website and order before March 3rd.
+**KRISPY KREME**- Hey eagles! The Environmental Council is having a Krispy Kreme Fundraiser on Thursday March 10th. Boxes of 12 donuts for 10 dollars will be available to order online through school cashless and will be ready for pickup on March 10th during lunch. Ordering will be open until March 3rd. If you would like to pre order, please visit the school cashless website and order before March 3rd.
 
 **CHESS CLUB** - meets today after school in room 211, if you want to play chess, stop by!
 
@@ -543,7 +520,7 @@ You'll have a chance to be creative, raise school spirit and earn volunteer hour
 
 ## TUESDAY FEBRUARY 8 2022
 
-**MATH CONTESTS **- The FGH and Euclid Math contests are coming up!   If you are in grade 12, and plan to write the Euclid, please make sure you have joined the Math Society's google classroom (code: qvwylm5).
+**MATH CONTESTS**- The FGH and Euclid Math contests are coming up!   If you are in grade 12, and plan to write the Euclid, please make sure you have joined the Math Society's google classroom (code: qvwylm5).
 
 All registration information will be shared there on Monday, February 7th. Space is limited so make sure you join the google classroom today!
 
@@ -551,13 +528,11 @@ All registration information will be shared there on Monday, February 7th. Space
 
 
 ## MONDAY FEBRUARY 7 2022
-**
-****LIBRARY LEARNING COMMONS CONNECTIONS** - Are you interested in earning volunteer hours, raising school spirit and promoting special events and contests? Maybe you're the creative type whose game for designing displays, podcasts, trailers or reviews? If any of this sounds like it might be fun, then you should come out to the FIRST EVER Library Learning Commons Connection meeting in our library after school, this Tuesday February 8th at 3 PM to learn more. Join the LLCC and make a difference at Abbey Park!
+******LIBRARY LEARNING COMMONS CONNECTIONS** - Are you interested in earning volunteer hours, raising school spirit and promoting special events and contests? Maybe you're the creative type whose game for designing displays, podcasts, trailers or reviews? If any of this sounds like it might be fun, then you should come out to the FIRST EVER Library Learning Commons Connection meeting in our library after school, this Tuesday February 8th at 3 PM to learn more. Join the LLCC and make a difference at Abbey Park!
 
 **CHESS CLUB** is back in person! If you want to play chess, we will meet Monday's from 2:50-4pm, and Wednesday's for the first 45 minutes of lunch. Drop in and play!
 
-**
-****APHSCONNECT**  is hosting 2 virtual sessions by HDSB psychologist about how to improve executive functioning to be successful in school this Thursday, Feb 10th, and next Thursday, Feb 17th. Join the google classroom for more information, code nnjhogg. Go to our instagram for more @aphsconnect
+******APHSCONNECT**  is hosting 2 virtual sessions by HDSB psychologist about how to improve executive functioning to be successful in school this Thursday, Feb 10th, and next Thursday, Feb 17th. Join the google classroom for more information, code nnjhogg. Go to our instagram for more @aphsconnect
 
 **YEARBOOK CLUB** will be meeting today at lunch in room 113. New members are welcome! Hope to see you there.
 
@@ -567,19 +542,19 @@ All registration information will be shared there on Monday, February 7th. Space
 
 **STUDENT COUNCIL PJ DAY** - Are you tired of going to school? Feel like sleeping in? In celebration of the upcoming winter break, wear your pajamas to school tomorrow, no judgement!
 
-**SKI / SNOWBOARD TEAM **- Please go to portable 4 at the beginning of lunch to pick up your hoodies.
+**SKI / SNOWBOARD TEAM**- Please go to portable 4 at the beginning of lunch to pick up your hoodies.
 
 
 ## WEDNESDAY DECEMBER 15 2021
 
-**IMPORTANT INFORMATION - **To the best of our knowledge, schools will reopen on January 3, 2022 as planned. However, as we do at every school break to ensure we are prepared for situations where students don’t pass the COVID-19 School Screening tool students are reminded of the following:
+**IMPORTANT INFORMATION**To the best of our knowledge, schools will reopen on January 3, 2022 as planned. However, as we do at every school break to ensure we are prepared for situations where students don’t pass the COVID-19 School Screening tool students are reminded of the following:
 
 Please take home all essential personal items and learning materials on Friday. This should include all resources including binders, art kits, personal or school assigned laptops, chromebooks or iPADs
 
 Thank you everyone. We hope you have a wonderful holiday break!
 
 
-**SKI / SNOWBOARD TEAM **. There will be a mandatory meeting today in Portable 4 at 11;00AM sharpe.
+**SKI / SNOWBOARD TEAM**. There will be a mandatory meeting today in Portable 4 at 11;00AM sharpe.
 
 **LOCKERS** - If you are using a locker, please remember to remove any garbage and take home any stinky gym clothes for a wash, before you leave for the Holiday Break. Everyone will thank you.
 
@@ -587,13 +562,13 @@ Thank you everyone. We hope you have a wonderful holiday break!
 
 ## TUESDAY DECEMBER 14 2021
 
-**MOVIE DAY -** Hey Eagles! Come down to the theatre today at lunch to watch a christmas classic, home alone. There will also be food available for $2. A reminder that tomorrow is also grade level day, where each grade will wear a different colour. For grade 12s, the colour is black, for grade 11s its grey, for grade 10s its green and for grade 9s its red. Come out and show some school spirit!
+**MOVIE DAY** Hey Eagles! Come down to the theatre today at lunch to watch a christmas classic, home alone. There will also be food available for $2. A reminder that tomorrow is also grade level day, where each grade will wear a different colour. For grade 12s, the colour is black, for grade 11s its grey, for grade 10s its green and for grade 9s its red. Come out and show some school spirit!
 
 **IMPROV CLUB** - Here ye here ye improv club will not be meeting this week. Happy holidays!
 
 **CHRISTMAS FEAST** - Don't forget tomorrow is our Christmas celebration lunch in the cafeteria - no need to order just come on down for a delicious turkey lunch $7.99
 
-**MATH LEAGUE CONTEST **-  today at 3:00 PM in Portable 10
+**MATH LEAGUE CONTEST**-  today at 3:00 PM in Portable 10
 
 ## MONDAY DECEMBER 13 2021 
 
@@ -602,9 +577,7 @@ Thank you everyone. We hope you have a wonderful holiday break!
 **STUDENT COUNCIL** - will be hosting snowflake making in the foyer today at lunch! Come on down to show your school spirit! A reminder that today is also the LAST day to buy candy grams for $1 each. They will be on sale in the eagles nest at lunch.
 
 **DANCE TEAM**  will have practice after school in the theatre. See you there!
-**
-****
-**## FRIDAY DECEMBER 10 2021
+********## FRIDAY DECEMBER 10 2021
 
 
 **HEALTH & WELLNESS SHSM** - Are you in a career in health care? Are you planning to become a paramedic, midwife, doctor or nurse?  Come to Portable 12 at 11:30 on Wednesday, Dec. 15 for an information session about the SHSM Health and Wellness program at TA Blakelock High School. Start exploring your path into grade 11 and beyond.
@@ -628,18 +601,16 @@ Thank you to all the interested parties who inquired about the position. An acco
 
 **MATH LEAGUE** - December 14th at 3:00 PM Math League Contest in Portable 10.
 
-**THEATRE **- The theatre will be closed for lunch this Thursday and Friday for private events.
-**
-****CHESS CLUB -**** **time change- chess club now meets at the start of lunch for the first 40 minutes. See you in room 211 Wednesday's at lunch and Monday's after school.
+**THEATRE**- The theatre will be closed for lunch this Thursday and Friday for private events.
+******CHESS CLUB******time change- chess club now meets at the start of lunch for the first 40 minutes. See you in room 211 Wednesday's at lunch and Monday's after school.
 
-**
-**## TUESDAY DECEMBER 7 2021 
+****## TUESDAY DECEMBER 7 2021 
 
 You getting annoyed that ‘All I want for Christmas is you’ is constantly playing? Come down to the Eagles nest at lunch and donate some money. Once we reach our goal of $1206 the song will stop. Every donation helps.
 
 **DUNGEONS AND DRAGONS** - Roll a Natural 20 to join our club! Dungeons and Dragons club starts Tuesday at lunch, until 12:00. Come to Room 107, or as you may know it, the Hub, to punch some dragons in the face and play some DND!
 
-**SR. BOYS BASKETBALL **- Congratulations to the senior boys basketball team last night for their victory against Frank Hayden! Special shoutout to Stefan V, who led in scoring with 18 points. We're very proud of you.
+**SR. BOYS BASKETBALL**- Congratulations to the senior boys basketball team last night for their victory against Frank Hayden! Special shoutout to Stefan V, who led in scoring with 18 points. We're very proud of you.
 
 ## MONDAY DECEMBER 6 2021 
 
@@ -655,7 +626,7 @@ We at Abbey Park are engaging in a pre-symposium whole school activity on sharin
 
 **PIANIST NEEDED** - If you are proficient in playing the piano (Grade 8 RCM) and would like to accumulate some volunteer hours, the Vocal Ensemble is looking for an accompanist. We rehearse Wednesdays from 3-5 in the Music Room. You would be expected to attend rehearsals and also play for any concerts/music events that the ensemble would sing at. Please see Mrs. McGhee if you are interested.
 
-**EAGLITE MUSIC -** Hey Eagles, we’re looking to broaden our horizons on music appreciation at Abbey Park. If you have a song that’s from another culture, which respectfully celebrates diversity or simply means something to you, please share your suggestions at the Egalite suggestion boxes, which are located in the foyer and library.
+**EAGLITE MUSIC** Hey Eagles, we’re looking to broaden our horizons on music appreciation at Abbey Park. If you have a song that’s from another culture, which respectfully celebrates diversity or simply means something to you, please share your suggestions at the Egalite suggestion boxes, which are located in the foyer and library.
 
 **STUDENT COUNCIL HOLIDAY CHEER** - Hey eagles! Student council is excited to be running “10 days of holiday cheer,” spanning from December 6th to December 17th. Fun holiday fundraising activities and spirit days will be happening everyday throughout both weeks, and all proceeds will go to Distress Centre Halton. Stay tuned for more info and follow us on Instagram @aphs.studco!
 
@@ -672,28 +643,28 @@ As day 1 of the 10 days of holiday cheer, students are encouraged to bring anyth
 
 **EAGLE INK SPIRITWEAR** -  is now available for purchase! If you are interested, please check our Google Classroom for more information, and place your orders!
 
-**CHESS CLUB **meets today at the start of lunch for the first 40 minutes in room 211- see you there
+**CHESS CLUB**meets today at the start of lunch for the first 40 minutes in room 211- see you there
 
-**ART CLUB **meets today in the art room (106). Art club today. See you there!
+**ART CLUB**meets today in the art room (106). Art club today. See you there!
 
 
 ## TUESDAY NOVEMBER 30 2021 
 
-**LINK CREW **- Attention Link Crew! We have a meeting this Friday December 3 at 7:30am in the theatre. Please bring a toonie to donate to a good cause. See you there!
+**LINK CREW**- Attention Link Crew! We have a meeting this Friday December 3 at 7:30am in the theatre. Please bring a toonie to donate to a good cause. See you there!
 
 
 ## MONDAY NOVEMBER 29 2021
 
 **NIGHT SCHOOL** - Semester 2 Night School registration is now open. Courses being offered are only Grade 11 and 12 levels. To register, log into your myBlueprint account and click on Continuing Education. Registration closes on February 10th at 4:00 pm.
 
-**BADMINTON CLUB **- Are you interested in playing badminton? Then this message is for you. There will be a short information meeting on Friday, December the 10th in room 202 at the beginning of lunch. Reminder that this is only a drop in recreational club and not a team. Join our google classroom with the code wqvauq5 for more updates. Anyone interested is recommended to attend this information session so we can further plan the dates and times.
+**BADMINTON CLUB**- Are you interested in playing badminton? Then this message is for you. There will be a short information meeting on Friday, December the 10th in room 202 at the beginning of lunch. Reminder that this is only a drop in recreational club and not a team. Join our google classroom with the code wqvauq5 for more updates. Anyone interested is recommended to attend this information session so we can further plan the dates and times.
 
-**ABBEY PARK DANCE TEAM ** will have practice after school in the theatre, see you there!
+**ABBEY PARK DANCE TEAM** will have practice after school in the theatre, see you there!
 
 
 ## THURSDAY NOVEMBER 25 2021
 
-**WWF Button Sales **- Buttoning Up for Climate Change has come to an end! In total, over $130 were raised for WWF from button sales. Thank you so much to everyone who donated or participated in the event!
+**WWF Button Sales**- Buttoning Up for Climate Change has come to an end! In total, over $130 were raised for WWF from button sales. Thank you so much to everyone who donated or participated in the event!
 
 **VOCAL ENSEMBLE** - Looking for an accompanist. The Vocal Ensemble needs an accompanist. If you are interested in applying, please see Mrs. McGhee in the theatre or the arts office.
 
@@ -709,27 +680,24 @@ As day 1 of the 10 days of holiday cheer, students are encouraged to bring anyth
 
 ## MONDAY NOVEMBER 22 2021
 
-**EAGLE INK ** is offering spiritwear for purchase! All those interested, please fill out the forms on our Google Classroom as soon as possible.
+**EAGLE INK** is offering spiritwear for purchase! All those interested, please fill out the forms on our Google Classroom as soon as possible.
 
 **STUDENT COUNCIL** -  is excited to be continuing the origami animal event in the foyer today so come down at lunch to add an origami animal to the collaborative sculpture or purchase a button to proudly display. A reminder that all proceeds from button sales will go to WWF to help fight climate change!
 
-**VOCAL ENSEMBLE - **For anyone interested in singing with the Abbey Park Vocal Ensemble, auditions will take place this Wednesday after school in the Music Room. Please come prepared with a song. Auditions will be first come, first served-no appointment needed.
+**VOCAL ENSEMBLE**For anyone interested in singing with the Abbey Park Vocal Ensemble, auditions will take place this Wednesday after school in the Music Room. Please come prepared with a song. Auditions will be first come, first served-no appointment needed.
 
 **DANCE TEAM** will have practice after school in the theatre, see you there!
 
 **CURLING** - Would all APHS curlers please come to the woodshop, for a mandatory meeting, at the beginning of lunch.
 
-**
-**## FRIDAY NOVEMBER 19 2021
+****## FRIDAY NOVEMBER 19 2021
 
 **CURLING** - For all students wanting to play curling this year, please come and pick up a permission form today at the beginning of lunch, in the woodshop.
 
 **EAGLE INK** - will be having a meeting today at 3:00 PM in Room 104 for all Photography and Art members. To all members, please ensure you get any outstanding work handed in ASAP. See you there!
-**
-****
-**## THURSDAY NOVEMBER 18 2021
+********## THURSDAY NOVEMBER 18 2021
 
-**FRENCH CLUB **-  is held Mondays at lunch in room 205! Everyone is welcome no matter their french speaking ability. Join us every week for some fun games and activities and make sure to bring a friend! Visit our google classroom (Code: 3l5y4sk) to learn more.
+**FRENCH CLUB**-  is held Mondays at lunch in room 205! Everyone is welcome no matter their french speaking ability. Join us every week for some fun games and activities and make sure to bring a friend! Visit our google classroom (Code: 3l5y4sk) to learn more.
 
 **VOCAL ENSEMBLE** - Abbey Park's Vocal Ensemble is coming back! There will be a short information meeting in the Music Room after school on Friday Nov. 19. Rehearsals will take place on Wednesdays after school in the Music Room. Come to the meeting or contact Mrs. McGhee for audition information.
 
@@ -738,7 +706,7 @@ As day 1 of the 10 days of holiday cheer, students are encouraged to bring anyth
 
 ## WEDNESDAY NOVEMBER 17 2021
 
-**ART CLUB **- Art Club! A place to hang out and work on your own art OR participate in some group led activities. We're casual and fun. See you today in the art room! Art Club!!
+**ART CLUB**- Art Club! A place to hang out and work on your own art OR participate in some group led activities. We're casual and fun. See you today in the art room! Art Club!!
 
 
 ## TUESDAY NOVEMBER 16 2021
@@ -787,9 +755,9 @@ Both new and returning members are welcome. Remember to invite a friend to join 
 
 Please ensure that you are constantly checking your email for updates and that your weekly assignments are submitted by Tuesday at 11:59 PM through the Google Form titled MEDLIFE Assignment Dropbox and shared via email. Looking forward to seeing you soon!
 
-**SENIOR BOYS BASKETBALL -  **Anyone interested in trying out for the senior boys basketball team this year, there will be a meeting on Tuesday Nov 9, which is today. The meeting time has been changed to 10:45, in room 215.
+**SENIOR BOYS BASKETBALL**Anyone interested in trying out for the senior boys basketball team this year, there will be a meeting on Tuesday Nov 9, which is today. The meeting time has been changed to 10:45, in room 215.
 
-**YEARBOOK CLUB **-  will be meeting on Monday in room 113. If you like graphic design, photography, or simply want to contribute something special back to the school, this is the club for you. Contact Ms. Da Silva or Ms. Gigg if you have any questions. Hope to see you there.
+**YEARBOOK CLUB**-  will be meeting on Monday in room 113. If you like graphic design, photography, or simply want to contribute something special back to the school, this is the club for you. Contact Ms. Da Silva or Ms. Gigg if you have any questions. Hope to see you there.
 
 
 ## MONDAY NOVEMBER 9 2021
@@ -803,7 +771,7 @@ Google Classroom code: 6zeba4q
 
 **SKI / SNOWBOARD TEAM** - Attention all Ski & Snowboarders candidates. Our first training is today after school. You will need to bring your medical form and parent letter with signatures in order to work out. Please hand in to Mr. Harding We will be meeting outside of portable 4 at 3:00 pm.
 
-**CROSS COUNTRY **- The Cross Country running season has concluded and this year's participants had an excellent season. Felicity Sparling represented the school at OFSAA this weekend at Lakefield College, achieving a personal best time and finishing in the top 40 in the Senior Girls division. Congratulations!
+**CROSS COUNTRY**- The Cross Country running season has concluded and this year's participants had an excellent season. Felicity Sparling represented the school at OFSAA this weekend at Lakefield College, achieving a personal best time and finishing in the top 40 in the Senior Girls division. Congratulations!
 
 ## FRIDAY NOVEMBER 5 2021
 
@@ -826,7 +794,7 @@ Google Classroom code: 6zeba4q
 
 ## WEDNESDAY NOVEMBER 3 2021
 
-**FLANNEL FRIDAY **- Hey Eagles! Student Council is excited to announce the return of Flannel Friday! this Friday, November 5th, make sure to wear some flannel to school and show some spirit!
+**FLANNEL FRIDAY**- Hey Eagles! Student Council is excited to announce the return of Flannel Friday! this Friday, November 5th, make sure to wear some flannel to school and show some spirit!
 
 **WE SCARE HUNGER** - Congratulations to everyone who participated in this year's "We Scare Hunger" Food Drive! Hundreds of much-needed, nonperishable food items were collected and donated to the Food Bank. Special thanks to Ms. Gabura and our Link Crew for organizing this successful event!
 
@@ -848,11 +816,9 @@ Google Classroom code: 6zeba4q
 **DIPLOMAT’S SOCIETY** - How many of you have heard of the American fiasco in Afghanistan, did you know that Canada sent troops there too? If you want to learn more about Afghanistan, foreign policy and the Taliban, join Diplomats' Society in room 203 on Tuesday after school.
 
 **CHESS CLUB** is cancelled for today, see you Wednesday at lunch!
-**
-****
-**## FRIDAY OCTOBER 29 2021 
+********## FRIDAY OCTOBER 29 2021 
 
-**LIBRARY ART CONTEST - **Thank you to everyone who voted in the library art contest! The winners are ... Ryan Liu, Elaine Ge and Jayanth Iyer! Congratulations!
+**LIBRARY ART CONTEST**Thank you to everyone who voted in the library art contest! The winners are ... Ryan Liu, Elaine Ge and Jayanth Iyer! Congratulations!
 
 **STUDENT SENATORS** - Kusha Shirani and Vesa Barileva are both grade 11 students and have recently been chosen as the Abbey Park student senators. They engage in meetings with other senators and the trustees about equity, mental health, drug abuse, and much more. Do not hesitate to contact them personally via Instagram or email. They are here to listen to your concerns and ideas to improve Abbey Park! To learn more, click on student corner and then student senators on the APHS website.
 
@@ -868,17 +834,16 @@ Google Classroom code: 6zeba4q
 
 **LIBRARY ART CONTEST** - Today is the last day to vote for the winners of the Library art contest! For voting and details head over to the library or visit the library website (bit.ly/APHSLibrary). Winners of the contest will be announced on Friday!
 
-**SR. GIRLS FIELD HOCKEY **- The senior field hockey team beat CK 3-1 in their semi final on Tuesday. The team will play for the Halton tier 1 title on Thursday at Bronte Field.
+**SR. GIRLS FIELD HOCKEY**- The senior field hockey team beat CK 3-1 in their semi final on Tuesday. The team will play for the Halton tier 1 title on Thursday at Bronte Field.
 
 **ENVIRONMENTAL CLUB** -  meets every Thursday after school in room 213. This week we will be doing a litter cleanup around the school to keep our community clean.
-**
-****OUAC PIN NUMBERS** - This is an announcement for grade 12's applying to Ontario Universities in the Fall. Your OUAC PIN numbers have arrived. Please come to guidance to pick yours up.
+******OUAC PIN NUMBERS** - This is an announcement for grade 12's applying to Ontario Universities in the Fall. Your OUAC PIN numbers have arrived. Please come to guidance to pick yours up.
 
 ## MONDAY OCTOBER 25 2021
 
 **CHESS CLUB**  after school today- check our google classroom to see if you have a match.
 
-**DIPLOMAT’S SOCIETY **- To the guillotine, unforgivable crimes. I'm sure we've all heard horrible stories of death and abuse, disgusting tales that make you wonder if certain people deserve to live. This week's diplomats society meeting is on the death penalty. Join us in room 203 on Tuesday to debate over the morality of Capital Punishment.
+**DIPLOMAT’S SOCIETY**- To the guillotine, unforgivable crimes. I'm sure we've all heard horrible stories of death and abuse, disgusting tales that make you wonder if certain people deserve to live. This week's diplomats society meeting is on the death penalty. Join us in room 203 on Tuesday to debate over the morality of Capital Punishment.
 
 **IMPROV CLUB** - Here ye here ye there will be an improv meeting in the theatre after school Friday at 3. Looking forward to seeing your costumes
 
@@ -886,7 +851,7 @@ Google Classroom code: 6zeba4q
 
 ## FRIDAY OCTOBER 22 2021 
 
-**CROSS COUNTRY - **There will be a very brief but mandatory Cross Country meeting at the beginning of lunch in room 210 on Monday, October 25th. Please be there! Thank you.
+**CROSS COUNTRY**There will be a very brief but mandatory Cross Country meeting at the beginning of lunch in room 210 on Monday, October 25th. Please be there! Thank you.
 
 
 ## THURSDAY OCTOBER 21 2021 
@@ -903,8 +868,7 @@ Class code: uv2lzsn to login
 **SWIM TEAM** -  Is Back!! If you're interested in being a part of the 2021/22 swim team, please come to an information meeting at the beginning of lunch on Tuesday, October 26th! We will meet in the main gym, near the weight room door - See you there!
 
 **GAMING CLUB** -  is meeting today at lunch in room 225. Bring your own game or play what's there. New members are always welcome.
-**
-****CLAY SCULPTURES** - Did you make a clay sculpture last year in art? Come to the art room and pick it up. Clay sculptures ready for pick up after school in the art room!
+******CLAY SCULPTURES** - Did you make a clay sculpture last year in art? Come to the art room and pick it up. Clay sculptures ready for pick up after school in the art room!
 
 
 ## WEDNESDAY OCTOBER 20 2021
@@ -913,16 +877,15 @@ Class code: uv2lzsn to login
 
 **SPIRIT DAY** Hey Abbey Park, this Friday, October 22 we are having a school spirit day! Wear your pyjamas to school and come down to the foyer for a raffle and a chance to win some awesome prizes. Hope to see you then!
 
-**ART CLUB **- It's almost time for ART CLUB! Art club...Wednesdays at 3 in the Art Room! Bring your creativity to the Art Club!
+**ART CLUB**- It's almost time for ART CLUB! Art club...Wednesdays at 3 in the Art Room! Bring your creativity to the Art Club!
 
-**
-**## TUESDAY OCTOBER 19 2021
+****## TUESDAY OCTOBER 19 2021
 
 **STRINGS** - Attention all advanced string players: This is a reminder of our rehearsal for tomorrow morning at 7am in the music room. Please be punctual. See you then.
 
 ## MONDAY OCTOBER 28 2021
 
-**Menstrual Product Drive - **This is your chance to take part in reducing period poverty around your community.
+**Menstrual Product Drive**This is your chance to take part in reducing period poverty around your community.
 Hosted by Girl Up Oakville x Help A Girl Out
 Date: October 18 - 27
 Your donations can include tampons, pads, menstrual cups, cotton pads, and other menstrual products. We encourage you to use old shoe boxes, bags, or totes to gather these items for sustainability purposes.*
@@ -931,7 +894,7 @@ Please ensure your donations are brand new and unopened.
 
 **MEDLIFE** Abbey Park is hosting a Halloween Movie Week fundraiser in the theatre at lunch from October 25th to October 29th to raise money for low-income communities in Latin America and Africa. Admission is free, and popcorn and other movie snacks will be available for purchase. Look around the school for posters with more information and scan the QR code to cast your vote for the movies by this Friday, October 22nd.
 
-**BELIEVE LEADERSHIP - **The Believe Leadership Course will have Session 4 today in Room 208 as always!
+**BELIEVE LEADERSHIP**The Believe Leadership Course will have Session 4 today in Room 208 as always!
 The APHS Believe Leadership Course would like to promote our Passion Project, Mental Health Mission, with their workshop that aims to provide ways to learn about many aspects of mental health! Sign up before October 24th with the link bit.ly/3iPap0J! Check out their Instagram @mentalhealth_mission for more info!
 
 
@@ -939,12 +902,10 @@ The APHS Believe Leadership Course would like to promote our Passion Project, Me
 
 **COFFEE HOUSE** - The eagles nest will be open Monday and Wednesday this week. This will be your FINAL CHANCE to pay for coffee house tickets by cash before the day of the event. Remember that tickets are $3. We hope to see you there!
 
-**CHESS CLUB **meets after school today in room 211- all levels are welcome and there will be a sign up today for those who want more competitive play.
-**
-****
-**## FRIDAY OCTOBER 15 2021
+**CHESS CLUB**meets after school today in room 211- all levels are welcome and there will be a sign up today for those who want more competitive play.
+********## FRIDAY OCTOBER 15 2021
 
-**EAGLE INK **- There will be an Eagle Ink meeting today at 3:00 PM in the library for all members interested in editing or layout designing. See you there!
+**EAGLE INK**- There will be an Eagle Ink meeting today at 3:00 PM in the library for all members interested in editing or layout designing. See you there!
 
 
 ## THURSDAY OCTOBER 14 2021
@@ -958,7 +919,7 @@ The APHS Believe Leadership Course would like to promote our Passion Project, Me
 
 **GIRLS ICE HOCKEY** - The girls ice hockey meeting planned for today has been moved to LUNCH in room 217.
 
-**LIBRARY ART CONTEST - **Calling all artists! Tomorrow is the last day to enter the library's art contest! Submissions are due by 3pm tomorrow. For full details talk to Ms. Gardecky or Ms. MacNeil in the library, or go to bit.ly/APHSLibrary.
+**LIBRARY ART CONTEST**Calling all artists! Tomorrow is the last day to enter the library's art contest! Submissions are due by 3pm tomorrow. For full details talk to Ms. Gardecky or Ms. MacNeil in the library, or go to bit.ly/APHSLibrary.
 
 
 ## WEDNESDAY OCTOBER 13 2021 
@@ -967,7 +928,7 @@ The APHS Believe Leadership Course would like to promote our Passion Project, Me
 
 **SR. FIELD HOCKEY** - The Senior field hockey team beat CK 2-0 at Bronte Field yesterday for their third win of the season. The team plays Nelson tonight in a battle for first place in the league.
 
-**KRISPY KREME **- Hey Eagles! HOSA will be having a Krispy Kreme donut fundraiser tomorrow, Thursday October 14th. Buy a dozen for $10 on cashless, or in-person, or buy one donut for a dollar on Thursday! Make sure to bring the exact change, we hope to see you there!
+**KRISPY KREME**- Hey Eagles! HOSA will be having a Krispy Kreme donut fundraiser tomorrow, Thursday October 14th. Buy a dozen for $10 on cashless, or in-person, or buy one donut for a dollar on Thursday! Make sure to bring the exact change, we hope to see you there!
 
 **SCHOOL CAFETERIA** - GREAT NEWS EAGLES .... The School Cafeteria will be reopening on Monday October 18th at 8:00 am - See you then!
 
@@ -979,31 +940,26 @@ The APHS Believe Leadership Course would like to promote our Passion Project, Me
 **IMPROV CLUB** - Here ye here ye there will not be an improv meeting this week. See you next week
 
 **The APHS Believe Leadership Course** members will meet this Friday in Room 208 at 3! See you then!
-**
-****LIBRARY ART CONTEST **- Calling all artists! This is the last week to enter the library's art contest! Submissions are due by 3pm on Friday October 15th. For full details talk to Ms. Gardecky or Ms. MacNeil in the library, or go to bit.ly/APHSLibrary.
+******LIBRARY ART CONTEST**- Calling all artists! This is the last week to enter the library's art contest! Submissions are due by 3pm on Friday October 15th. For full details talk to Ms. Gardecky or Ms. MacNeil in the library, or go to bit.ly/APHSLibrary.
 
-**GIRLS HOCKEY **- Info meeting on Thursday October 14 at 2:45 in room 222.
+**GIRLS HOCKEY**- Info meeting on Thursday October 14 at 2:45 in room 222.
 
 **DAY OF THE GIRL** - Did you know yesterday was Day of the Girl? Come join young women in leadership today in the foyer at lunch to acknowledge and celebrate all the incredible things girls around the world have accomplished.
-**
-****ADVANCED STRINGS PLAYERS** - This is just a reminder that our first rehearsal is tomorrow morning at 7am in the music room. Please bring your instrument and music if you picked it up last week.
+******ADVANCED STRINGS PLAYERS** - This is just a reminder that our first rehearsal is tomorrow morning at 7am in the music room. Please bring your instrument and music if you picked it up last week.
 
 ## WEDNESDAY OCTOBER 6 2021
 
-**
-****MEDLIFE** - There will be a Medlife Marketing Committee meeting today at 11:15 in room 201.
+******MEDLIFE** - There will be a Medlife Marketing Committee meeting today at 11:15 in room 201.
 
-**FIELD HOCKEY **- Both Abbey Park field hockey teams dominated MM Robinson to open the season, with each team posting a shutout victory. The seniors won 8-0 and the juniors won 5-0!
+**FIELD HOCKEY**- Both Abbey Park field hockey teams dominated MM Robinson to open the season, with each team posting a shutout victory. The seniors won 8-0 and the juniors won 5-0!
 
 **LEGAL EAGLES** - Are you interested in law and want to participate in mock trials?   If so, join the Abbey Park Legal Eagles on Thursdays at 3 in room 203!    Google Classroom Code: 3zyxy4e
 
 
 ## TUESDAY OCTOBER 5 2021
-**
-****
-****APHS Believe Leadership** - Just a reminder, Session 3 of the APHS Believe Leadership Course will be moved to next Friday! See you all then!
+**********APHS Believe Leadership** - Just a reminder, Session 3 of the APHS Believe Leadership Course will be moved to next Friday! See you all then!
 
-**PROGRAMMING CLUB **- Do you want to learn to code? Well, you're in luck because the programming club is back! For anyone interested, you can get more info by scanning the QR code on any of the posters around the school, or by checking out the official APHS Instagram page. Be sure to look out for new posters starting this Thursday, as they'll have a new code linking to the registration form.
+**PROGRAMMING CLUB**- Do you want to learn to code? Well, you're in luck because the programming club is back! For anyone interested, you can get more info by scanning the QR code on any of the posters around the school, or by checking out the official APHS Instagram page. Be sure to look out for new posters starting this Thursday, as they'll have a new code linking to the registration form.
 
 **DIVERSITY IN OUR PAGES BOOK CLUB** - Do you like reading books? Are you hoping to expand your reading to include more diverse authors? Then Diversity In Our Pages is for you! In this book club, we promote books by marginalized creators, and we encourage you to think about how an author’s privilege affects their stories. We meet every Tuesday at 3 in the Library.
 
@@ -1014,11 +970,10 @@ The APHS Believe Leadership Course would like to promote our Passion Project, Me
 
 ## MONDAY OCTOBER 4 2021
 
-**Attention all artists! **The library is running an art contest and want your art of Joe the Eagle! All submissions are due by October 15th at 3pm. Come to the library or visit the library website for full details! https://sites.google.com/hdsb.ca/aphs-library/home
-**
-****STRINGS ENSEMBLE** - Attention all ADVANCED string players of Abbey Park! All string players who are interested in playing in the Advanced Strings Ensemble are asked to come to our start-up meeting this Wed. morning, Oct. 6th, at 7:30am in the music room. No instruments are needed this week... this is ONLY a meeting. See Mr. Willms if you have any questions.
+**Attention all artists!**The library is running an art contest and want your art of Joe the Eagle! All submissions are due by October 15th at 3pm. Come to the library or visit the library website for full details! https://sites.google.com/hdsb.ca/aphs-library/home
+******STRINGS ENSEMBLE** - Attention all ADVANCED string players of Abbey Park! All string players who are interested in playing in the Advanced Strings Ensemble are asked to come to our start-up meeting this Wed. morning, Oct. 6th, at 7:30am in the music room. No instruments are needed this week... this is ONLY a meeting. See Mr. Willms if you have any questions.
 
-**COFFEE HOUSE -**  is back for this year! If you wish to attend, we will be selling tickets all week in the eagles nest (front foyer). Tickets are $3 and remember to attend, you have to fill out the form at bit.ly/aphscoffeehouse. See you all there!
+**COFFEE HOUSE**  is back for this year! If you wish to attend, we will be selling tickets all week in the eagles nest (front foyer). Tickets are $3 and remember to attend, you have to fill out the form at bit.ly/aphscoffeehouse. See you all there!
 
 **ENGINEERING CLUB** - Interested in engineering? Get started by joining the Engineering Club, where you'll be able to learn about cool engineering concepts while also competing in fun engineering activities! Join us on today's meeting at lunch in room 215 where you'll compete in a tinfoil boat challenge. Find the google classroom code on our posters throughout the school. See you there!   Google Classroom Code: k4rmrqj
 Instagram Account: @engineeringclubaphs
@@ -1029,17 +984,16 @@ Instagram Account: @engineeringclubaphs
 **ART CLUB** - Classroom Code: ptnf64a
 We often will split into groups with some students involved in a leadership focused task while others may be working individually or together on another task like our mural painting. Don't be shy but come early as we fill up often!
 
-**
-**## THURSDAY SEPTEMBER 30 2021 
+****## THURSDAY SEPTEMBER 30 2021 
 
-**GAMING CLUB - ** is meeting today at the start of lunch in room 225. If you like video games, board games, or trading card games, stop by and join in on the fun.
+**GAMING CLUB** is meeting today at the start of lunch in room 225. If you like video games, board games, or trading card games, stop by and join in on the fun.
 
 **EAGLE INK** - will be having a meeting on Friday, 3:00 PM in the library. Please check our Google Classroom (code: 3vttqtw) for things to complete beforehand. See you there!
 
 
 ## TUESDAY SEPTEMBER 28 2021
 
-**REACH **- If you enjoy trivia then the Reach Team is for you. Junior and Senior Reach members meet every Tuesday and Thursday from 3:00 - 4:00 PM in Room 207. Hope to see you there!
+**REACH**- If you enjoy trivia then the Reach Team is for you. Junior and Senior Reach members meet every Tuesday and Thursday from 3:00 - 4:00 PM in Room 207. Hope to see you there!
 
 **CROSS COUNTRY** - There will be a mandatory Cross Country Meeting at the beginning of lunch in room 210 this Thursday, September 30th.
 
@@ -1051,13 +1005,11 @@ We often will split into groups with some students involved in a leadership focu
 **ENVIRONMENTAL COUNCIL** will have regular meeting every Thursday after school in room 213 and we are always accepting new members. Join the google classroom with the code 37w72yb.
 
 **FRENCH CLUB** info meeting today in room 205
-**
-****SAFETY & WELLBEING** Are you wanting to make Abbey Park even better? Join parents, teachers, admin, and students to look at the Safety and Wellbeing of all students. We meet monthly on the third Tuesday of each month at 11 am in Rm 210. Join us either virtually or in person on Tuesday Sept. 28th for our first meeting. Here is the meeting link https://meet.google.com/hcq-gyhr-rit?hs=122&authuser=0 and we look forward to seeing you there!
+******SAFETY & WELLBEING** Are you wanting to make Abbey Park even better? Join parents, teachers, admin, and students to look at the Safety and Wellbeing of all students. We meet monthly on the third Tuesday of each month at 11 am in Rm 210. Join us either virtually or in person on Tuesday Sept. 28th for our first meeting. Here is the meeting link https://meet.google.com/hcq-gyhr-rit?hs=122&authuser=0 and we look forward to seeing you there!
 
 
 ## FRIDAY SEPTEMBER 24 2021
-**
-****ATHLETIC COUNCIL** - All students are invited to join the Athletic Council which will have its first meeting on Thursday, September 30th in room 201 at 11 am (lunch). We will be discussing the upcoming athletic season and what we can do to support our athletic teams. Everyone is welcome!!
+******ATHLETIC COUNCIL** - All students are invited to join the Athletic Council which will have its first meeting on Thursday, September 30th in room 201 at 11 am (lunch). We will be discussing the upcoming athletic season and what we can do to support our athletic teams. Everyone is welcome!!
 
 **FRENCH CLUB** - Interested in meeting new friends and practicing your French? There will be an information meeting at 10:50 in room 205 on Monday. See you there!
 
@@ -1069,35 +1021,30 @@ We often will split into groups with some students involved in a leadership focu
 All secondary schools are asked to nominate two students within the school to represent our school in these discussions. Meetings take place virtually (for semester one) on a monthly basis on Tuesday evenings. It is expected members of the student senate are students who are school leaders, connected to a broad range of students in our school community and can ensure the needs of all students are considered in these discussions.
 
 If you have an interest in representing Abbey Park in the HDSB Student Senate, please access the nomination form on our school website under the tab ‘Student Corner’. Applications are required to be submitted by Monday October 4th at 4:00 pm.
-**
-****
-****GOLF TEAM **- Would all members of the golf team please come and pick up a permission form, in the woodshop, at the beginning of lunch today.
+**********GOLF TEAM**- Would all members of the golf team please come and pick up a permission form, in the woodshop, at the beginning of lunch today.
 
 
-**IMPROV CLUB ** - Here ye here ye the council has spoken if you wish to join the improv club come to the theatre this friday at 3pm. Bring your enthusiasm and craziest ideas. Thats this friday at 3:00 in the theatre for an improv club information meeting
+**IMPROV CLUB** - Here ye here ye the council has spoken if you wish to join the improv club come to the theatre this friday at 3pm. Bring your enthusiasm and craziest ideas. Thats this friday at 3:00 in the theatre for an improv club information meeting
 
 
 ## WEDNESDAY SEPTEMBER 22 2021
-**
-**
+****
 TUTORING CLUB -  The tutoring club is looking for dedicated APHS students to be peer tutors for this year! Tutoring can be held in person or online, and this is a great opportunity to help out your fellow Eagles and earn volunteer hours at the same time! If you have any questions, please contact Mehreen Javed or Mr. Dick.   
 You can sign up to be a tutor at  https://tinyurl.com/aphstutorsignup
 
-**DANCE TEAM **- Hi dancers, the audition for the abbey park dance team will run Monday, September 27th at 3pm in the theatre, everyone is welcome, see you there!
+**DANCE TEAM**- Hi dancers, the audition for the abbey park dance team will run Monday, September 27th at 3pm in the theatre, everyone is welcome, see you there!
 
 **ENGINEERING CLUB** - Have you ever wanted to build a robot to improve humanity? Get started by joining the Engineering Club, where you'll be able to learn about cool engineering concepts while also competing in fun engineering activities like the egg drop contest! The first meeting is on Monday, September 27th at lunch in room 215. Find the google classroom code on our posters throughout the school. See you there!
 
-**FIELD HOCKEY ** players: no practice on Wednesday September 22. Instead come to rooms 222 (Senior) and 213 (Junior) at 11am for concussion protocol.
+**FIELD HOCKEY** players: no practice on Wednesday September 22. Instead come to rooms 222 (Senior) and 213 (Junior) at 11am for concussion protocol.
 
 **EAGLITE COUNCI**L - Are you interested in building equitable, inclusive and more positive spaces at Abbey Park, the Halton District School Board schools, and the community at large? If you answer yes to some or all of the above vision, then Egalite Council needs you!  
 
 Our regularly scheduled weekly meetings will commence next Wednesday 22nd September, at 3 pm. We look forward to seeing everyone with lots of new ideas on how to build a stronger Egalite Council.
 
 Both new and returning members are welcome. Remember to invite a friend to join us in our vision that Equity, inclusion, and social justice require ALL hands to be on deck. Each one bring one. See you on today @3pm in room 111 or you can use our:  Class code login: uv2lzsn
-**
-****COFFEE HOUSE** - Student Council  is excited to announce Coffee house, a new freshly brewed outdoor event coming to the nest on October 21st!  If you have a talent you want to show off at coffee house, we highly encourage you to submit an audition at bit.ly/coffeehouseperformance. We look forward to seeing your stellar auditions!
-**
-****GAMING CLUB** will be meeting this Thursday at the start of lunch in room 225. New members welcome. See you there.
+******COFFEE HOUSE** - Student Council  is excited to announce Coffee house, a new freshly brewed outdoor event coming to the nest on October 21st!  If you have a talent you want to show off at coffee house, we highly encourage you to submit an audition at bit.ly/coffeehouseperformance. We look forward to seeing your stellar auditions!
+******GAMING CLUB** will be meeting this Thursday at the start of lunch in room 225. New members welcome. See you there.
 
 
 
@@ -1116,7 +1063,7 @@ This is a reminder for all **MEDLIFE** members that there will be a meeting at 3
 
 **ART CLUB** - The real physical in person fabulous art club is back Wednesday from 3 to 4. See you Wednesday art peeps!
 
-**CHESS CLUB -** meets after school today in room 211. Drop in if you want to play some chess!
+**CHESS CLUB** meets after school today in room 211. Drop in if you want to play some chess!
 
 **FOOTBALL PRACTICE** - Today's football practice will be held at lunch! Helmets and shoulder pads on the field at 11:00!
 
@@ -1134,18 +1081,17 @@ Class code: uv2lzsn   Contact Mrs. Yomi-Odedeyi in room 111 for further informat
 
 ## THURSDAY SEPTEMBER 16 2021
 
-**THE ABBEY PARK DANCE TEAM **will have aN information meeting on Monday September 20th in the theater at 2 45 pm. Everyone is welcome and we look forward to seeing you there!
+**THE ABBEY PARK DANCE TEAM**will have aN information meeting on Monday September 20th in the theater at 2 45 pm. Everyone is welcome and we look forward to seeing you there!
 
-**ATTENTION LINK CREW LEADERS **We have an important meeting tomorrow (Friday September 16) in the theatre at 7:28am. That's a link leader meeting tomorrow morning. See you then!
+**ATTENTION LINK CREW LEADERS**We have an important meeting tomorrow (Friday September 16) in the theatre at 7:28am. That's a link leader meeting tomorrow morning. See you then!
 
-**THE DEBATE TEAM ** is back! If you’re interested in broadening your knowledge, bolstering post-secondary applications, and developing skills in speaking, research, and critical thinking, then be sure to check out our info session next Monday in room 201. There will also be a virtual info session! For more information, visit bit.ly/aphsdebateinfo.
+**THE DEBATE TEAM** is back! If you’re interested in broadening your knowledge, bolstering post-secondary applications, and developing skills in speaking, research, and critical thinking, then be sure to check out our info session next Monday in room 201. There will also be a virtual info session! For more information, visit bit.ly/aphsdebateinfo.
 
-**MATH - **Do you like Math? Do you want to challenge yourself with fun Math questions? Do you want to excel at math contests? Look no further! Math Society is Back! Meetings are on Thursdays after school in room 220, starting on September 23rd. See you there!
+**MATH**Do you like Math? Do you want to challenge yourself with fun Math questions? Do you want to excel at math contests? Look no further! Math Society is Back! Meetings are on Thursdays after school in room 220, starting on September 23rd. See you there!
 
 **MATH CONTESTS** Are you interested in writing any of the math contests offered this year? If so please join the Math Society's google classroom with code: QVWYLM5. All information about math contests will be shared here. Ask Ms. Podio if you have any further questions.
 
-**
-**## WEDNESDAY SEPTEMBER 15 2021
+****## WEDNESDAY SEPTEMBER 15 2021
 
 **SR BOYS VOLLEYBALL** - There will be a meeting for those interested in playing senior boys volleyball at 11:00 on Thursday in room 222. If you cannot make it please see Mr. Van Klooster in room 222.
 
@@ -1156,7 +1102,7 @@ Class code: uv2lzsn   Contact Mrs. Yomi-Odedeyi in room 111 for further informat
 
 **DIPLOMAT'S SOCIETY** - Do you ever want to just absolutely crush your opponents in political discourse? Join Diplomats’ Society - a non-formatted open-forum discussion club on politics and world issues. Improve your speaking skills, learn about world politics, and be informed about current events. Meetings are every Tuesday in room 203, starting the 21st, with new topics every week. See you then!
 
-**EAGLE INK **- If you are interested in writing and editing articles, or activities such as layout designing, photography and art, check out Abbey Park's own school magazine, Eagle Ink! Our first introductory meeting will be held this Friday the 17th, at 3:00 PM in Portable 7. See you there!
+**EAGLE INK**- If you are interested in writing and editing articles, or activities such as layout designing, photography and art, check out Abbey Park's own school magazine, Eagle Ink! Our first introductory meeting will be held this Friday the 17th, at 3:00 PM in Portable 7. See you there!
 
 **CHESS CLUB** - Do you want to play chess or go? Chess club meets Wednesday's from 11:30-12 and Monday's after school in room 211. Eat your lunch first, then come to play.
 
@@ -1164,7 +1110,7 @@ Class code: uv2lzsn   Contact Mrs. Yomi-Odedeyi in room 111 for further informat
 
 ## MONDAY SEPTEMBER 13 2021
 
-Attention field hockey players:** **Practice today after school is canceled. Our next practice is 11am tomorrow. Thank you!
+Attention field hockey players:****Practice today after school is canceled. Our next practice is 11am tomorrow. Thank you!
 
 **ART CLUB** - An information meeting about the art club is being held in the art room on Wednesday after school. Wed at 3pm art club meeting in the art room!
 
@@ -1173,17 +1119,17 @@ Attention field hockey players:** **Practice today after school is canceled. Our
 
 ## FRIDAY SEPTEMBER 10 2021
 
-**YOUNG WOMEN IN LEADERSHIP **will begin running next Tuesday (the 14th) at 7:20am in room 204! Come to get information on how the club will be running this year!
+**YOUNG WOMEN IN LEADERSHIP**will begin running next Tuesday (the 14th) at 7:20am in room 204! Come to get information on how the club will be running this year!
 
-**MEDLIFE **- Are you interested in supporting humanitarian work, going on a Service Learning Trip to Peru, receiving volunteer hours, obtaining professional fundraising experience, and earning an official Certificate of Achievements? If yes to any, MEDLIFE is the perfect club for you. Join our google classroom with the code D4HME3S and follow us on Instagram at @medlife_aphs today! Our first introductory meeting will be on Tuesday, September 14th from 3-4pm in The Hub (Room 107)! Looking forward to seeing you there!
+**MEDLIFE**- Are you interested in supporting humanitarian work, going on a Service Learning Trip to Peru, receiving volunteer hours, obtaining professional fundraising experience, and earning an official Certificate of Achievements? If yes to any, MEDLIFE is the perfect club for you. Join our google classroom with the code D4HME3S and follow us on Instagram at @medlife_aphs today! Our first introductory meeting will be on Tuesday, September 14th from 3-4pm in The Hub (Room 107)! Looking forward to seeing you there!
 
 **WEIGHT ROOM** - Hey eagles, the weight room will soon be open for the Abbey Park Fitness Club. There will be a meeting held in the gymnasium on Tuesday September 14th at 10:50 am. The club will run during lunch time each day and further details will be provided at the meeting. All grades are welcome, we look forward to seeing you there!
 
-**SMILE COOKIES **are back from Sept 13 - 19.  Why not treat yourself to a Smile cookie from Tim Horton's? All proceeds from cookie sales this week go directly to supporting food4kidshalton. Such an easy way to support children in our community!
+**SMILE COOKIES**are back from Sept 13 - 19.  Why not treat yourself to a Smile cookie from Tim Horton's? All proceeds from cookie sales this week go directly to supporting food4kidshalton. Such an easy way to support children in our community!
 
 ## THURSDAY SEPTEMBER 9 2021
 
-**APHS BELIEVE LEADERSHIP CHAPTER ****- **Are you looking to become a leader? Would you like to grow yourself as an individual in a short period of time, create a project to help your community, meet similar-minded individuals AND get volunteer hours for it? Well, look no further! The Believe Leadership Course is a virtual 8-week leadership course that will teach you core principles needed to become a leader, such as confidence, resilience, discipline and leadership, all while building your own Passion Project!    Join our Google Classroom with the code (zvetldd)
+**APHS BELIEVE LEADERSHIP CHAPTER******Are you looking to become a leader? Would you like to grow yourself as an individual in a short period of time, create a project to help your community, meet similar-minded individuals AND get volunteer hours for it? Well, look no further! The Believe Leadership Course is a virtual 8-week leadership course that will teach you core principles needed to become a leader, such as confidence, resilience, discipline and leadership, all while building your own Passion Project!    Join our Google Classroom with the code (zvetldd)
 
 Follow us on instagram at believeleadershipaphs for more info. And come for our info session on Wednesday, September 15 from 3:30-4:00pm with the link: [bit.ly/aphsblccall21]. OR And come for our second info session on Monday, September 20th from 3:30-4:00pm with the link: [bit.ly/aphsblccall21].
 
@@ -1194,7 +1140,7 @@ Follow us on instagram at believeleadershipaphs for more info. And come for our 
 
 **CROSS COUNTRY** - There will be a mandatory sign up meeting this Thursday, September 9th directly after school in the cafeteria for all students interested in participating in the Abbey Park Cross Country Team. All are welcome and I look forward to seeing you there!     Mr. Leonard: leonardje@hdsb.ca
 
-**The Glen Abbey Library **is open for student use daily from 11:30 am except Mondays, with Covid restrictions in place such as social distancing and only members of the same household can sit at a table together.
+**The Glen Abbey Library**is open for student use daily from 11:30 am except Mondays, with Covid restrictions in place such as social distancing and only members of the same household can sit at a table together.
 
 **GOLF TEAM** - If you are interested in being on the APHS Golf Team, please come to an information session on Thursday right at the beginning of lunch in the woodshop. That's APHS Golf Team information session on Thursday right at the beginning of lunch, in the woodshop.
 
@@ -1206,14 +1152,13 @@ Follow us on instagram at believeleadershipaphs for more info. And come for our 
 
 **JR. BOYS VOLLEYBALL** - Attention all grade 9 and 10 boys interested in trying out for the junior boys volleyball team. There will be a sign up meeting on Thursday, September 9th in the gymnasium at the beginning of lunch at 10:45 am. If you are interested please show up in the gym to sign a sheet indicating your interest and pick up a medical form which must be filled out and signed in order to come to the first tryout which will be Friday, September 10 after school in the gym. If you don't make it to the meeting, please see Ms. Holmberg in the phys-ed office for the information needed. See you Thursday at lunch!!
 
-**FIELD HOCKEY **- Attention athletes! Anyone who is interested in playing Field Hockey for Abbey Park this year is invited to a meeting today (Tuesday September 7), in room 213 at 11am. That's any students, Grade 9 through 12, who are interested in playing field hockey, please come to a meeting today at 11 am in room 213. If you have to miss the meeting, please contact Ms. Grzesik, Mr. Dick, Mr. Lin or Ms. Kelly.
+**FIELD HOCKEY**- Attention athletes! Anyone who is interested in playing Field Hockey for Abbey Park this year is invited to a meeting today (Tuesday September 7), in room 213 at 11am. That's any students, Grade 9 through 12, who are interested in playing field hockey, please come to a meeting today at 11 am in room 213. If you have to miss the meeting, please contact Ms. Grzesik, Mr. Dick, Mr. Lin or Ms. Kelly.
 
 
 ## TUESDAY 18 MAY 2021
 
-APHS running club has started back up again for the rest of the quadmester -  The google classroom code is: **vms6jax.  **All information will be posted about runs/google meet times. 
-**
-**
+APHS running club has started back up again for the rest of the quadmester -  The google classroom code is: **vms6jax.**All information will be posted about runs/google meet times. 
+****
 ## FRIDAY 10 MAY 2021
 
 Hey Eagles! On Thursday, May 13 from 9:00 am to 3:00 pm, Abbey Park will be hosting our second annual official TEDx event! Featuring a variety of speakers from high schools across Halton and Peel (some from our own Eagle family), the conference can be viewed at https://tinyurl.com/tedxyouthabbeyparkhs2021. Hope to see you all there! 
@@ -1241,12 +1186,12 @@ Hey Eagles!! Are you interested in making new friends in a safe space? Join the 
 
 ## FRIDAY 19 MARCH 2021
 
-**Attention Grade 12 Chemistry Students! **If you would like to participate in Chemistry Contests that are being offered this spring, please email Ms. Kelly by Tuesday March 23. That's any Grade 12 Chemistry Students who would like to participate in Chemistry Contests, please contact Ms. Kelly. Thank you!
+**Attention Grade 12 Chemistry Students!**If you would like to participate in Chemistry Contests that are being offered this spring, please email Ms. Kelly by Tuesday March 23. That's any Grade 12 Chemistry Students who would like to participate in Chemistry Contests, please contact Ms. Kelly. Thank you!
 
 
 ## TUESDAY 16 MARCH 2021
 
-**Abbey Park's Yearbook Club **is looking for members! If you'd like to help create this year's yearbook, please join the Google Classroom via the following code: xncmevy
+**Abbey Park's Yearbook Club**is looking for members! If you'd like to help create this year's yearbook, please join the Google Classroom via the following code: xncmevy
 
 
 ## FRIDAY 12 MARCH 2021
@@ -1273,11 +1218,8 @@ If you like arts, or if you want to take some time to just chill out in this fas
 
 Hey Eagles, The Fall / Winter edition of Eagle Ink is here - please check the Abbey Park website under Student News Corner to check it out - Congratulations to the Eagle Ink crew and Ms Donaldson for producing a fantastic and interesting read.
 
-**
-**## TUESDAY 23 FEBRUARY 2021
-**
-****
-****Hey Eagles!** What are your plans this spring break? From April 12th to 17th, **MEDLIFE** is running a week-long virtual service learning trip. This program is open to ALL students who attend Abbey Park, both in-person and VSS. For more information, attend our VSLT info night on March 1st at 7 PM or on March 3rd at 7 PM. That's March 1st at 7 PM or March 3rd at 7 PM. Spots are limited! Check out our instagram @medlife_aphs for more details.
+****## TUESDAY 23 FEBRUARY 2021
+**********Hey Eagles!** What are your plans this spring break? From April 12th to 17th, **MEDLIFE** is running a week-long virtual service learning trip. This program is open to ALL students who attend Abbey Park, both in-person and VSS. For more information, attend our VSLT info night on March 1st at 7 PM or on March 3rd at 7 PM. That's March 1st at 7 PM or March 3rd at 7 PM. Spots are limited! Check out our instagram @medlife_aphs for more details.
 
 Link to meeting: https://meet.google.com/uez-vxed-xqe
 Sign up form: https://forms.gle/F6TeYBXQ2xGK7Yn49
@@ -1301,8 +1243,7 @@ Don't encourage bullying by participating in bullying behaviour.
 
 **Hey Eagles! TedXYouth** at Abbey Park High School is now looking for new speakers and students to help organize the virtual conference! We are looking for individuals who can speak to this year’s theme: solutions made for the 21st century. If you have an idea for a talk you’d like to deliver, fill out the application form at http://tinyurl.com/TedXYouthAbbeyParkHS by February 28th. We can’t wait to read your ideas! If you have any questions or are interested in being a part of the organizing committee, reach out to Miya Takahashi at 1takahashimi@hdsb.ca
 
-**
-****Good morning Eagles,** I am here to inform you that our **Culture Appreciation Club** is welcoming any of you to join! Let’s enjoy the environment where we can be comfortable to share our cultures in many different ways. Our meeting starts at 3 pm on every Thursday. Hope to see you there.
+******Good morning Eagles,** I am here to inform you that our **Culture Appreciation Club** is welcoming any of you to join! Let’s enjoy the environment where we can be comfortable to share our cultures in many different ways. Our meeting starts at 3 pm on every Thursday. Hope to see you there.
 
 
 
@@ -1310,8 +1251,7 @@ Don't encourage bullying by participating in bullying behaviour.
 
 **Yearbook** - Want to have a say in what's included in this year's yearbook? Fill out the survey by going to: http://bit.ly/APHSYearbook2021
 
-**
-**## TUESDAY 9 FEBRUARY 2021
+****## TUESDAY 9 FEBRUARY 2021
 
 **Attention 2021 Grads** - Grad photos are starting on Tuesday Feb 16th - check your emails for information and book your sitting online as soon as possible
 
@@ -1333,7 +1273,7 @@ APHS school spiritwear is here - Click this link to place an order - Deadline fo
 
 ## WEDNESDAY 6 JANUARY 2021
 
-WORLD RELIGION DAY - Jan 17 2021:    Are you interested in sharing more about your culture and educating others?     If so, help contribute to our World Religion Day Virtual Bulletin Board by completing this form **no later than **Wednesday, January 13 at midnight.    Your submission should be 50 words or less. 
+WORLD RELIGION DAY - Jan 17 2021:    Are you interested in sharing more about your culture and educating others?     If so, help contribute to our World Religion Day Virtual Bulletin Board by completing this form **no later than**Wednesday, January 13 at midnight.    Your submission should be 50 words or less. 
 
 ## MONDAY JANUARY 4 2021
 
@@ -1367,9 +1307,7 @@ The Submission Deadline is  Today Monday, December 14th, 2020
 ## WEDNESDAY 9 DECEMBER 2020
 
 Last Thursday, all members of Abbey Park MEDLIFE gathered to participate in the seasonal fundraising campaign. The fundraiser was organized in support of MEDLIFE partner communities in South America who were no longer able to afford food due to job losses resulted from pandemic related lockdowns. In less than a week, MEDLIFE APHS was able to raise over $8300 USD, making them the top fundraising chapter in the world. Congratulations! MEDLIFE Abbey Park is a tight-knit group of students passionate about volunteerism and humanitarianism. They will be accepting new members in January. Please stay tuned on their Instagram page for more info. Go eagles!
-**
-****
-**## MONDAY 7 DECEMBER 2020
+********## MONDAY 7 DECEMBER 2020
 
 Good Morning Eagles: In the spirit of equity, inclusion, and a positive school climate, Egalite Council is looking for staff and students to help create a video series, written and spoken words, to celebrate  Winterfest 2020!  We will like you to share your family's holiday traditions and what they mean to you. If you are interested : 
 
@@ -1403,8 +1341,7 @@ Attention all grade 10's A FUTURE that FITS is coming your way on Thursday Decem
 **The Environmental Council** has organized a colouring contest! Print out, colour and submit your entry for a chance to symbolically adopt an endangered species. First place chooses the endangered animal and second place gets to name it! For more information please see the posters around the school or talk to Ms. Kelly.
 Please submit your entries by Tuesday December 15.
 
-**
-**## MONDAY 30 NOVEMBER 2020
+****## MONDAY 30 NOVEMBER 2020
 
 **Hello grade 12's.** Tomorrow we will have our weekly google meet at new. Check out the classroom for details. Have a great day.
 
@@ -1420,31 +1357,30 @@ Please submit your entries by Tuesday December 15.
 
 ## WEDNESDAY 18 NOVEMBER 2020
 
-**Gaming Club ** The Abbey Park Gaming Club is meeting for the first today after school via Google Meet at 3:30PM. You can join by entering the Google Classroom Code: ug6nqd2 or heading to bit.ly/APHSGaming. If you're into Video Games, Board Games, or Trading Card Games, we'd love to see you there.
+**Gaming Club** The Abbey Park Gaming Club is meeting for the first today after school via Google Meet at 3:30PM. You can join by entering the Google Classroom Code: ug6nqd2 or heading to bit.ly/APHSGaming. If you're into Video Games, Board Games, or Trading Card Games, we'd love to see you there.
 
 **Safety & Wellbeing**  Interested in making a positive change to the school? Then why not attend the virtual Safety and Wellbeing meeting on Monday, November 23rd at 11:30 am? Everyone is welcome. Please see Mrs. Parker in the Office for the link.
 
 ## TUESDAY 17 NOVEMBER 2020
 
-**Textbooks ** With Quadmester 1 complete, it is time to return your textbooks and other borrowed items. Please bring them into the school as soon as you can and leave them in the appropriate blue bin in the front foyer. Thank you!
+**Textbooks** With Quadmester 1 complete, it is time to return your textbooks and other borrowed items. Please bring them into the school as soon as you can and leave them in the appropriate blue bin in the front foyer. Thank you!
 
 ## MONDAY 16 NOVEMBER 2020
 
-**Math League ** Tuesday November 17 at 3 PM is our second Math League Contest. You will access the contest from the Google Classroom. If you have not registered yet go to code klf7ofj to sign in.
+**Math League** Tuesday November 17 at 3 PM is our second Math League Contest. You will access the contest from the Google Classroom. If you have not registered yet go to code klf7ofj to sign in.
 
 **Art Club** If you like arts, or if you want to take some time to just chill out in this fast-paced learning environment, you’ll definitely want to check out the art club. With amazing topics every month, the art club this year will be more exciting than ever. Join our first meeting this quadmester on Tuesday November 17th. Please enter with the google classroom code ‘ptnf64a’ or follow our instagram @aphs_artclub, and we will see you there. 
 
 
 ## WEDNESDAY 11 NOVEMBER 2020
 
-**Study Space ** Looking for another location to study? The Glen Abbey Rec Centre has a Youth Study Hall with computers and wifi on Wednesdays and Thursdays. Please see the school website or come to the office for details on how to book your spot.
+**Study Space** Looking for another location to study? The Glen Abbey Rec Centre has a Youth Study Hall with computers and wifi on Wednesdays and Thursdays. Please see the school website or come to the office for details on how to book your spot.
 
 ## TUESDAY 10 NOVEMBER 2020
 
-**Gaming Club ** Are you interested in Video Games, Board Games, or Trading Card Games? If so, the Abbey Park Gaming Club would love to have you as a member! We'll be meeting virtually every Wednesday, starting in Quad 2, from 3:30 - 4:30 PM. Our Google Classroom Code is ug6nqd2.
+**Gaming Club** Are you interested in Video Games, Board Games, or Trading Card Games? If so, the Abbey Park Gaming Club would love to have you as a member! We'll be meeting virtually every Wednesday, starting in Quad 2, from 3:30 - 4:30 PM. Our Google Classroom Code is ug6nqd2.
 
-**Yearbook PIckup** If you ordered a 2019/2020 yearbook, you can pick it up today and Wednesday in the Main Foyer after these Announcements. Please remember to be socially distant. Thank you.**
-**
+**Yearbook PIckup** If you ordered a 2019/2020 yearbook, you can pick it up today and Wednesday in the Main Foyer after these Announcements. Please remember to be socially distant. Thank you.****
 **Quad 2 Timetable** All students are to check their G Drive Shared Folder later today for their updated Quad 2 timetable.
 
 ## MONDAY 9 NOVEMBER 2020
@@ -1476,23 +1412,21 @@ Eagle Ink 2020 Issue
 
 ## FRIDAY 23 OCTOBER 2020
 
-**Grade 12’s **Ms Barran will be holding another google meet for grade 12's applying to University and College today at noon. The Link is on the classroom.
+**Grade 12’s**Ms Barran will be holding another google meet for grade 12's applying to University and College today at noon. The Link is on the classroom.
 
 **Full Disclosure** All students taking grade 11 and 12 courses this Quadmester, Tuesday, October 27th is the last day to drop a course so that it will not show on your permanent record. Please email your Guidance Counsellor to drop the course. A listing of Guidance Counsellors and their emails are listed on the Student Services door.
 
 ## WEDNESDAY 21 OCTOBER 2020
 
-**Student Senate ** We are delighted to announce that Vineeth Jarabana and Amber Lee are the Abbey Park High School representatives for the HDSB Student Senate this year!
+**Student Senate** We are delighted to announce that Vineeth Jarabana and Amber Lee are the Abbey Park High School representatives for the HDSB Student Senate this year!
 
 Thank you to the many, many students who applied to these positions. We had an unprecedented number of applicants and the calibre of the applicants was outstanding. Vineeth and Amber are Grade 12 students who bring a broad range of leadership experiences to this position given the number of activities and co-curricular activities they have been involved in throughout their years of high school. Congratulations Vineeth and Amber! We look forward to you representing Abbey Park High School throughout the year and your continued leadership in our school community.
 
 ## TUESDAY 20 OCTOBER 2020
 
-**Math League **Today at 3PM it is the first Math League contest of the year. Sign into Google classroom and Ms. Aleksandra will email you the link. Classroom code is KLF7OFJ  
+**Math League**Today at 3PM it is the first Math League contest of the year. Sign into Google classroom and Ms. Aleksandra will email you the link. Classroom code is KLF7OFJ  
 
-## MONDAY 19 OCTOBER 2020**
-****
-****Engineering Career Night **Interested in a career in Engineering? Then come to our Google Meet on October 22nd to hear Engineers speak about their careers and STEM journey. Please visit the Main Office for a link to more information.
+## MONDAY 19 OCTOBER 2020**********Engineering Career Night**Interested in a career in Engineering? Then come to our Google Meet on October 22nd to hear Engineers speak about their careers and STEM journey. Please visit the Main Office for a link to more information.
 
 ## FRIDAY 16 OCTOBER 2020
 
@@ -1510,20 +1444,17 @@ Thank you to the many, many students who applied to these positions. We had an u
 
 **Math League** This year Math League Contests will be given at home and the first one is on  October 22 at 3PM. If you want to participate please sign into Google Classroom  KLF7OFJ and Ms. Aleksandra will email you a link. 
 
-## WEDNESDAY 7 OCTOBER, 2020**
-****
-****Abbey Park Model MUN** Hey Eagles! Abbey Park Model United Nations is now accepting new members. To apply, fill out the application form at tinyurl.com/abbeyparkmun by October 16th. If you have any questions, feel free to reach out to Alisha Ahmed at 1ahmedali@hdsb.ca 
+## WEDNESDAY 7 OCTOBER, 2020**********Abbey Park Model MUN** Hey Eagles! Abbey Park Model United Nations is now accepting new members. To apply, fill out the application form at tinyurl.com/abbeyparkmun by October 16th. If you have any questions, feel free to reach out to Alisha Ahmed at 1ahmedali@hdsb.ca 
 
 ## TUESDAY 6 OCTOBER, 2020
-**Student Senate **The Halton District School Board Student Senate is the primary student governance and representative organization which seeks to find issues in our schools or policies, discuss ways to solve these issues and advocate for changes within our school board to meet the needs of all students.
+**Student Senate**The Halton District School Board Student Senate is the primary student governance and representative organization which seeks to find issues in our schools or policies, discuss ways to solve these issues and advocate for changes within our school board to meet the needs of all students.
 
 All secondary schools are asked to nominate two students within the school to represent our school in these discussions. Meetings take place virtually, on a monthly basis on Tuesday evenings. It is expected members of the student senate are students who are school leaders, connected to a broad range of students in our school community and can ensure the needs of all students are considered in these discussions.
 
 If you have an interest in representing APHS in the HDSB Student Senate please email our School Principal, Tara Connor for an application form. Application forms are required to be submitted by Friday, October 16th at 4pm.
 
 **MEDLIFE** Attention all MEDLIFE members. There will be a general body meeting, today at 3 PM. The link to join is in the google classroom. See you all soon!
-**
-**## FRIDAY OCTOBER 2, 2020
+****## FRIDAY OCTOBER 2, 2020
 **Art Club** If you like arts, or if you want to take some time to just chill out in this fast-paced learning environment, you’ll definitely want to check out the art club. With amazing topics every month, the art club this year will be more exciting than ever. If you are curious about how the art club is taking moves to adapt online, join us on Tuesday October 6th. Please enter with the google classroom code ‘ptnf64a’ or follow our instagram @aphs_artclub, and we will see you there.
 
 **Grade 12’s** Attention all Grade 12's. Please join the google classroom that you were invited to last week. There is lots of great information you will need for graduation and being informed of deadlines, scholarships, virtual tours of college and universities etc. The class code is ugbdgix.
@@ -1540,7 +1471,7 @@ The “orange shirt” in Orange Shirt Day refers to the new shirt that Phyllis 
 On September 30th Abbey Park Students and Staff are encouraged to wear an orange shirt in honour of all of the Indigenous children who attended residential school and the families that continue to feel the effects of this terrible time in Canadian  history. 
 
 ## TUESDAY SEPTEMBER 29, 2020
-**Environmental Council - **Do you love the outdoors?  Are you passionate about the environment? Then join The Environmental Council.  We are running virtually this year!  Join our first Google Meet this Thursday October 1 at 3pm.  Join the Google Classroom using the code: 37w72yb.  That's the Environmental Council Classroom code: 37w72yb
+**Environmental Council**Do you love the outdoors?  Are you passionate about the environment? Then join The Environmental Council.  We are running virtually this year!  Join our first Google Meet this Thursday October 1 at 3pm.  Join the Google Classroom using the code: 37w72yb.  That's the Environmental Council Classroom code: 37w72yb
 
 **MedLife** - This is a reminder for all students interested in joining MEDLIFE for the 2020-2021  school year. All forms and fees and due tonight by 11:59PM. Make sure to get them all in! We'll see you next Tuesday for our general body meeting. 
 

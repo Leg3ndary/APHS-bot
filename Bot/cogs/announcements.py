@@ -9,8 +9,16 @@ import datetime
 from gears.docs import Docs
 
 
-class AnnouncementsJson:
-    """Read from the a_info json document"""
+class AnnouncementsDB:
+    """
+    Read from the announcements json document/mongodb whenever I update it
+    """
+
+    def __init__(self) -> None:
+        """
+        Nothing to add here as of yet
+        """
+        pass
 
     async def get_latest_day(self) -> list:
         """Get latest days list of announcements"""
@@ -41,8 +49,8 @@ class Announcements(commands.Cog):
 
     def __init__(self, bot):
         self.bot = bot
-        self.adoc = Docs()
-        self.ajson = AnnouncementsJson()
+        self.announce_doc = Docs()
+        self.announce_db = AnnouncementsDB()
         self.update_announcements.start()
 
     def cog_unload(self):
@@ -51,16 +59,16 @@ class Announcements(commands.Cog):
     @tasks.loop(minutes=10)
     async def update_announcements(self):
         """Update our announcements documents every 10 minutes"""
-        await self.adoc.save_doc()
-        await self.adoc.organize_doc()
+        await self.announce_doc.save_doc()
+        await self.announce_doc.organize_doc()
 
     @commands.Cog.listener()
     async def on_ready(self):
         """On ready save the doc to our text file"""
-        print("Saving Doc")
-        await self.adoc.save_doc()
+        print("Starting Doc Save")
+        await self.announce_doc.save_doc()
         print("Doc saved to info/a_info.txt")
-        await self.adoc.organize_doc()
+        await self.announce_doc.organize_doc()
         print("Json saved to info/a_info.json")
 
     @commands.hybrid_group()

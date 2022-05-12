@@ -6,6 +6,8 @@ from oauth2client import tools
 import re
 import json
 
+from regex import E
+
 
 class Docs:
     """Class for accessing info about the announcements doc"""
@@ -14,9 +16,10 @@ class Docs:
         """
         Initiates with all the info that we need
         """
+        config = json.load(open("credentials/config.json"))
         self.SCOPES = "https://www.googleapis.com/auth/documents.readonly"
         self.DISCOVERY_DOC = "https://docs.googleapis.com/$discovery/rest?version=v1"
-        self.DOCUMENT_ID = "1AsAPy6pVsB63S1u2B2PcdgI95FQEWufX-v0_hajAPzs"
+        self.DOCUMENT_ID = config.get("Google").get("DOCID")
 
     async def convert_list_to_dict(self, olist: list) -> dict:
         """
@@ -68,12 +71,46 @@ class Docs:
         ----------
         element: dict
             a ParagraphElement from a Google Doc.
+
+        Returns
+        -------
+        str 
+            Parsed string
         """
         text_run = element.get("textRun")
 
         if not text_run:
             return ""
-        return text_run.get("content")
+
+        text_style = text_run.get("textStyle")
+        is_bolded = text_style.get("bold")
+        is_underlined = text_style.get("underline")
+        foreground = text_style.get("foregroundColor")
+        if foreground:
+            rgb_blue_color = foreground.get("color").get("rgbColor").get("blue")
+        else:
+            rgb_blue_color = None
+
+        font_size = text_style.get("fontSize")
+        if font_size:
+            magnitude = font_size.get("magnitude")
+        else:
+            magnitude = None
+        
+        if "APHS DAILY ANNOUNCEMENTS" in text_run.get("content"):
+            # For some reason the title shares the same stuff as days, so yes...
+            return f"# {text_run.get('content', '')}"
+        
+        if is_bolded and is_underlined and rgb_blue_color == 1 and magnitude == 14:
+            if text_run.get("content") == "\n":
+                return text_run.get("content")
+            return f"## {text_run.get('content', '')}"
+
+        if is_bolded and magnitude == 10:
+            return f"**{text_run.get('content', '').replace('-', '').strip()}**"
+
+        else:
+            return text_run.get("content", "")
 
     async def read_strucutural_elements(self, elements: list) -> None:
         """
@@ -95,6 +132,9 @@ class Docs:
                 elements = value.get("paragraph").get("elements")
                 for elem in elements:
                     text += await self.read_paragraph_element(elem)
+
+            # This shouldn't ever happen, unless some teacher wants to add a table, uh oh.
+            '''
             elif "table" in value:
                 # The text in table cells are in nested Structural Elements and tables may be
                 # nested.
@@ -109,11 +149,13 @@ class Docs:
                 # The text in the TOC is also in a Structural Element.
                 toc = value.get("tableOfContents")
                 text += await self.read_strucutural_elements(toc.get("content"))
+            '''
+
         return text
 
     async def save_doc(self):
         """
-        Uses the Docs API to save the document to a txt file
+        Uses the Docs API to save the document to a md file
 
         Parameters
         ----------
@@ -131,15 +173,14 @@ class Docs:
         doc = docs_service.documents().get(documentId=self.DOCUMENT_ID).execute()
         doc_content = doc.get("body").get("content")
 
-        with open("info/a_info.txt", "w", encoding="utf8") as file:
-            # json.dump(await self.read_strucutural_elements(doc_content), file, indent=4)
+        with open("info/announcements.md", "w", encoding="utf8") as file:
             text = await self.read_strucutural_elements(doc_content)
             file.write(text)
             self.text = text
 
     async def organize_doc(self) -> None:
         """
-        Organize the text into a json file (a_info.json)
+        Organize the text into a json file (announcements.json)
 
         Parameters
         ----------
@@ -149,28 +190,29 @@ class Docs:
         -------
         None
         """
-        edited_text = self.text.replace("APHS DAILY ANNOUNCEMENTS\n\n\n\n", "")
+        full = {}
 
+        ''' Painful regex that I had to learn and ask for help, keeping just in case I need it in the future
         edited_text = re.split(
-            r"((?:MONDAY|TUESDAY|WEDNESDAY|THURSDAY|FRIDAY) (?:JANUARY|FEBRUARY|MARCH|APRIL|MAY|JUNE|JULY|AUGUST|SEPTEMBER|OCTOBER|NOVEMBER|DECEMBER) \b(?:[1-9]|[12][0-9]|3[01])\b (?:2021|2022))",
+            r"## ((?:MONDAY|TUESDAY|WEDNESDAY|THURSDAY|FRIDAY) (?:JANUARY|FEBRUARY|MARCH|APRIL|MAY|JUNE|JULY|AUGUST|SEPTEMBER|OCTOBER|NOVEMBER|DECEMBER) \b(?:[1-9]|[12][0-9]|3[01])\b (?:2021|2022))",
             edited_text,
         )
+        '''
 
-        del edited_text[0]
+        days_split = self.text.split("## ")
 
-        organized_doc = self.convert_list_to_dict(edited_text)
+        del days_split[0] # delete aphs daily announcements stuff
 
-        for item in organized_doc.keys():
-            split_a = organized_doc.get(item).split("\n\n")
-            del split_a[0]
-            del split_a[-1]
+        for day in days_split:
+            temp_announcements = {}
 
-            new_a_list = []
+            for announcement in day.split("\n\n**")[1:]:
+                a_info = list(filter(None, announcement.split("**")))
+                if a_info:
+                    if not a_info[0] == "\n":
+                        temp_announcements[a_info[0]] = a_info[1].replace("-", "").strip()
 
-            for item_a in split_a:
-                new_a_list.append(item_a.replace("\n", ""))
+            full[day.split("\n\n")[0].strip()] = temp_announcements
 
-            organized_doc[item] = new_a_list
-
-        with open("info/a_info.json", "w", encoding="utf8") as file:
-            json.dump(organized_doc, file, indent=4)
+        with open("info/announcements.json", "w", encoding="utf8") as file:
+            json.dump(full, file, indent=4)
