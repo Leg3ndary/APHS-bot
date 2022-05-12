@@ -96,7 +96,7 @@ class AnnouncementsDoc:
         doc = docs_service.documents().get(documentId=self.DOCUMENT_ID).execute()
         doc_content = doc.get("body").get("content")
 
-        with open("info/a_info.txt", "w") as file:
+        with open("info/a_info.txt", "w", encoding="utf8") as file:
             #json.dump(await self.read_strucutural_elements(doc_content), file, indent=4)
             text = await self.read_strucutural_elements(doc_content)
             file.write(text)
@@ -125,7 +125,7 @@ class AnnouncementsDoc:
             
             organized_doc[item] = new_a_list
 
-        with open("info/a_info.json", "w") as file:
+        with open("info/a_info.json", "w", encoding="utf8") as file:
             json.dump(organized_doc, file, indent=4)
 
 
@@ -133,7 +133,7 @@ class AnnouncementsJson:
     """Read from the a_info json document"""
     async def get_latest_day(self) -> list:
         """Get latest days list of announcements"""
-        with open("info/a_info.json", "r") as file:
+        with open("info/a_info.json", "r", encoding="utf8") as file:
             latest_json = json.loads(file.read())
 
         first_key = latest_json.keys()
@@ -144,7 +144,7 @@ class AnnouncementsJson:
 
     async def get_day(self, day:int) -> list:
         """Get a certain days announcement"""
-        with open("info/a_info.json", "r") as file:
+        with open("info/a_info.json", "r", encoding="utf8") as file:
             latest_json = json.loads(file.read())
         # Removing one from the index value
         day -= 1
@@ -206,5 +206,5 @@ class Announcements(commands.Cog):
             await ctx.send(embed=embed)
 
 
-def setup(bot):
-    bot.add_cog(Announcements(bot))
+async def setup(bot):
+    await bot.add_cog(Announcements(bot))
