@@ -213,28 +213,27 @@ class Docs:
 
         for day in days_split:
             temp_announcements = {}
+            if not (
+                "WEDNESDAY SEPTEMBER 22 2021" in day
+                or "WEDNESDAY 7 OCTOBER, 2020" in day
+                or "TUESDAY 6 OCTOBER, 2020" in day
+                or "FRIDAY OCTOBER 2, 2020" in day
+                or "WEDNESDAY SEPTEMBER 30, 2020" in day
+                or "TUESDAY SEPTEMBER 29, 2020" in day
+                or "MONDAY SEPTEMBER 28, 2020" in day
+                or "MONDAY 19 OCTOBER 2020" in day
+            ):
+                for announcement in day.split("\n\n**")[1:]:
+                    a_info = list(filter(None, announcement.split("**")))
+                    if a_info:
+                        if len(a_info) == 1:
+                            pass
+                        elif not a_info[0] == "\n":
+                            temp_announcements[a_info[0]] = (
+                                a_info[1].replace("-", "").strip()
+                            )
 
-            for announcement in day.split("\n\n**")[1:]:
-                a_info = list(filter(None, announcement.split("**")))
-                if a_info:
-                    if (
-                        "WEDNESDAY SEPTEMBER 22 2021" in a_info[0]
-                        or "WEDNESDAY 7 OCTOBER, 2020" in a_info[0]
-                        or "TUESDAY 6 OCTOBER, 2020" in a_info[0]
-                        or "FRIDAY OCTOBER 2, 2020" in a_info[0]
-                        or "WEDNESDAY SEPTEMBER 30, 2020" in a_info[0]
-                        or "TUESDAY SEPTEMBER 29, 2020" in a_info[0]
-                        or "MONDAY SEPTEMBER 28, 2020" in a_info[0]
-                    ):
-                        pass
-                    elif len(a_info) == 1:
-                        pass
-                    elif not a_info[0] == "\n":
-                        temp_announcements[a_info[0]] = (
-                            a_info[1].replace("-", "").strip()
-                        )
-
-            full[day.split("\n\n")[0].strip()] = temp_announcements
+                full[day.split("\n\n")[0].strip()] = temp_announcements
 
         with open("info/announcements.json", "w", encoding="utf8") as file:
             json.dump(full, file, indent=4)

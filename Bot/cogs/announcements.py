@@ -44,11 +44,12 @@ class MongoInteract:
                     new_doc = {"_id": date, "date": date, "announcements": filtered}
                     await self.main.insert_one(new_doc)
 
-                    pipeline = [{"$addFields": {"date": {"$toDate": "$date"}}}]
-                    async for doc in self.main.aggregate(pipeline):
-                        await self.main.update_one(
-                            query, {"$set": {"date": doc.get("date")}}
-                        )
+            pipeline = [{"$addFields": {"date": {"$toDate": "$date"}}}]
+
+            async for doc in self.main.aggregate(pipeline):
+                await self.main.update_one(
+                    query, {"$set": {"date": doc.get("date")}}
+                )
 
 
 class AnnouncementsDB:
