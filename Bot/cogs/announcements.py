@@ -41,17 +41,38 @@ class AnnouncementsDB:
         with open("info/announcements.json", "r", encoding="utf8") as file:
             latest = json.loads(file.read())
 
-        lday = datetime.datetime.strftime("%A %B %-d %Y").upper()
+            lday = (
+                datetime.date.today()
+                .strftime("%A %B %d &Y")
+                .replace("01", "1")
+                .replace("02", "2")
+                .replace("03", "3")
+                .replace("04", "4")
+                .replace("05", "5")
+                .replace("06", "6")
+                .replace("07", "7")
+                .replace("08", "8")
+                .replace("09", "9")
+                .replace("&Y", datetime.date.today().strftime("%Y"))
+                .upper()
+            )
 
-        if "SATURDAY" in lday:
-            lday.replace("SATURDAY", "FRIDAY").replace(f" {datetime.datetime.strftime('%-d')} ", f" {int(datetime.datetime.strftime('%-d')) - 1} ")
+            if "SATURDAY" in lday:
+                lday = lday.replace("SATURDAY", "FRIDAY").replace(
+                    f" {int(datetime.date.today().strftime('%d'))} ",
+                    f" {int(datetime.date.today().strftime('%d')) - 1} ",
+                )
 
-        elif "SUNDAY" in lday:
-            lday.replace("SUNDAY", "FRIDAY").replace(f" {datetime.datetime.strftime('%-d')} ", f" {int(datetime.datetime.strftime('%-d')) - 2} ")
+            elif "SUNDAY" in lday:
+                lday = lday.replace("SUNDAY", "FRIDAY").replace(
+                    f" {int(datetime.date.today().strftime('%d'))} ",
+                    f" {int(datetime.date.today().strftime('%d')) - 2} ",
+                )
 
-        a_list = latest.get()
+            print(lday)
+            a_list = latest.get(lday)
 
-        return a_list
+            return a_list
 
     async def get_day(self, day: int) -> list:
         """Get a certain days announcement"""
@@ -111,7 +132,7 @@ class Announcements(commands.Cog):
                 description=f"""```diff
 {announcements}
 ```""",
-                timestamp=datetime.datetime.utcnow(),
+                timestamp=discord.utils.utcnow(),
                 color=ctx.author.color,
             )
             await ctx.send(embed=embed)

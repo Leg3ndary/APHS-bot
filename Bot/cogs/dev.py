@@ -37,7 +37,7 @@ class Dev(commands.Cog):
     )
     async def load(self, ctx, *, cog: str):
         try:
-            self.bot.load_extension(cog)
+            await self.bot.load_extension(cog)
         except Exception as e:
             embed_fail = discord.Embed(
                 title=f"__{cog}__ Load Fail",
@@ -70,7 +70,7 @@ class Dev(commands.Cog):
     )
     async def unload(self, ctx, *, cog: str):
         try:
-            self.bot.unload_extension(cog)
+            await self.bot.unload_extension(cog)
         except Exception as e:
             embed_fail = discord.Embed(
                 title=f"__{cog}__ Unload Fail",
@@ -103,8 +103,8 @@ class Dev(commands.Cog):
     )
     async def reload(self, ctx, *, cog: str):
         try:
-            self.bot.unload_extension(cog)
-            self.bot.load_extension(cog)
+            await self.bot.unload_extension(cog)
+            await self.bot.load_extension(cog)
         except Exception as e:
             embed_fail = discord.Embed(
                 title=f"__{cog}__ Reload Fail",

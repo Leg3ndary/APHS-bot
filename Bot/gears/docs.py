@@ -74,7 +74,7 @@ class Docs:
 
         Returns
         -------
-        str 
+        str
             Parsed string
         """
         text_run = element.get("textRun")
@@ -96,11 +96,11 @@ class Docs:
             magnitude = font_size.get("magnitude")
         else:
             magnitude = None
-        
+
         if "APHS DAILY ANNOUNCEMENTS" in text_run.get("content"):
             # For some reason the title shares the same stuff as days, so yes...
             return f"# {text_run.get('content', '')}"
-        
+
         if is_bolded and is_underlined and rgb_blue_color == 1 and magnitude == 14:
             if text_run.get("content") == "\n":
                 return text_run.get("content")
@@ -134,7 +134,7 @@ class Docs:
                     text += await self.read_paragraph_element(elem)
 
             # This shouldn't ever happen, unless some teacher wants to add a table, uh oh.
-            '''
+            """
             elif "table" in value:
                 # The text in table cells are in nested Structural Elements and tables may be
                 # nested.
@@ -149,7 +149,7 @@ class Docs:
                 # The text in the TOC is also in a Structural Element.
                 toc = value.get("tableOfContents")
                 text += await self.read_strucutural_elements(toc.get("content"))
-            '''
+            """
 
         return text
 
@@ -192,16 +192,16 @@ class Docs:
         """
         full = {}
 
-        ''' Painful regex that I had to learn and ask for help, keeping just in case I need it in the future
+        """ Painful regex that I had to learn and ask for help, keeping just in case I need it in the future
         edited_text = re.split(
             r"## ((?:MONDAY|TUESDAY|WEDNESDAY|THURSDAY|FRIDAY) (?:JANUARY|FEBRUARY|MARCH|APRIL|MAY|JUNE|JULY|AUGUST|SEPTEMBER|OCTOBER|NOVEMBER|DECEMBER) \b(?:[1-9]|[12][0-9]|3[01])\b (?:2021|2022))",
             edited_text,
         )
-        '''
+        """
 
         days_split = self.text.split("## ")
 
-        del days_split[0] # delete aphs daily announcements stuff
+        del days_split[0]  # delete aphs daily announcements stuff
 
         for day in days_split:
             temp_announcements = {}
@@ -210,7 +210,9 @@ class Docs:
                 a_info = list(filter(None, announcement.split("**")))
                 if a_info:
                     if not a_info[0] == "\n":
-                        temp_announcements[a_info[0]] = a_info[1].replace("-", "").strip()
+                        temp_announcements[a_info[0]] = (
+                            a_info[1].replace("-", "").strip()
+                        )
 
             full[day.split("\n\n")[0].strip()] = temp_announcements
 

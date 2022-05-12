@@ -1,6 +1,13 @@
 # APHS DAILY ANNOUNCEMENTS
 
 
+## THURSDAY MAY 12 2022
+
+**SOUNDS OF SPRING** - Tonight is the Sounds of Spring Music Concert! Come out to hear the Abbey Park strings ensembles and the Vocal ensemble. Admission is free but they would really appreciate a donation of non perishable food items for the local food bank. The concert starts at 7:00 pm in the Theatre. Doors open at 6:30.
+
+
+
+
 ## WEDNESDAY MAY 11 2022 
 
 **LLCC POETRY COMPETITION** - Thank you for participating in our LLCC Poetry Contest. The first prize winner for a $25 Tim Horton's Gift Card is Marin Shepherd, the second prize winner for a $15 Tim Horton's Gift Card is Emma Braho and the third prize winner for a $10 Tim Horton's Gift Card is Kyra Kaushal. We also have some Honourable Mentions Winners! Kushagra Pant, Andrea Soleil, Lana Ballivan, Abigail Garcia Hernandez and Khushi Kalsi, we have candy or a novel waiting for you too! Come on down to the library today!!!
