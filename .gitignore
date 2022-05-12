@@ -131,4 +131,4 @@ dmypy.json
 # credentials
 credentials.json
 token.json
-config.json
+Bot/config.json
