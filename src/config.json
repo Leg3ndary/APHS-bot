@@ -1,4 +1,0 @@
-{
-    "Mongo_URL": "mongodb+srv://<Username>:<Password>@cluster0.rgjdr.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
-    "Mongo_User": "AbbeyPark"
-}

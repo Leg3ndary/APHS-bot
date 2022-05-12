@@ -1,8 +1,10 @@
 import discord
 from discord.ext import commands, tasks
 import datetime
+'''
 from discord_slash import cog_ext, SlashContext
 from discord_slash.utils.manage_commands import create_option
+'''
 
 async def cache_afk_messages(bot, main):
     """A function that caches our stuff"""
@@ -13,8 +15,10 @@ async def cache_afk_messages(bot, main):
         afk_dict[document.get("_id")] = document.get("message")
     bot.afk_dict = afk_dict
 
+
 class Ping(commands.Cog):
     """Cog Example Description"""
+
     def __init__(self, bot):
         self.bot = bot
         # The actual db
@@ -30,7 +34,6 @@ class Ping(commands.Cog):
     async def afk_cacher(self):
         """Recache our afk_dict every 10 min"""
         await cache_afk_messages(self.bot, self.main)
-        
 
     @commands.Cog.listener()
     async def on_message(self, msg):
@@ -38,7 +41,7 @@ class Ping(commands.Cog):
         # ignore ourself since we don't wanna do recursion
         if msg.author == self.bot.user:
             return
-        for user_id in self.bot.afk_dict.keys().copy():
+        for user_id in list(self.bot.afk_dict.keys()).copy():
             user_id = int(user_id)
 
             member = msg.guild.get_member(user_id)
@@ -48,7 +51,7 @@ class Ping(commands.Cog):
                     title=f"{member.display_name} is AFK",
                     description=self.bot.afk_dict.get(user_id),
                     timestamp=datetime.datetime.utcnow(),
-                    color=msg.author.color
+                    color=msg.author.color,
                 )
                 await msg.channel.send(embed=embed)
 
@@ -59,13 +62,10 @@ class Ping(commands.Cog):
                     title=f"Welcome Back!",
                     description=f"""I have removed your afk for you {msg.author.mention}!""",
                     timestamp=datetime.datetime.utcnow(),
-                    color=msg.author.color
+                    color=msg.author.color,
                 )
                 return await msg.channel.send(embed=embed)
-
-            
-            
-            
+    '''
     @cog_ext.cog_slash(
         name="afk_set",
         description="""Set an afk message""",
@@ -75,31 +75,31 @@ class Ping(commands.Cog):
                 name="message",
                 description="The message that gets sent when you're pinged or mentioned",
                 option_type=3,
-                required=True
+                required=True,
             )
-        ]
+        ],
     )
     async def _afk_set(self, ctx: SlashContext, message):
         """Set an afk message"""
         document = await self.main.find_one({"_id": ctx.author.id})
         self.bot.afk_dict[ctx.author.id] = message
         if not document:
-            new_document = {
-                "_id": ctx.author.id,
-                "message": message
-            }
+            new_document = {"_id": ctx.author.id, "message": message}
             await self.main.insert_one(new_document)
-        
+
         else:
-            await self.main.update_one({"_id": ctx.author.id}, {"$set": {"message": message}})
+            await self.main.update_one(
+                {"_id": ctx.author.id}, {"$set": {"message": message}}
+            )
 
         embed = discord.Embed(
             title=f"Set AFK Message",
             description=message,
             timestamp=datetime.datetime.utcnow(),
-            color=discord.Color.green()
+            color=discord.Color.green(),
         )
         await ctx.send(embed=embed)
+        '''
 
 
 def setup(bot):
