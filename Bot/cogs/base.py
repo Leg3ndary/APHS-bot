@@ -16,14 +16,12 @@ async def cache_afk_messages(bot, main):
     bot.afk_dict = afk_dict
 
 
-class Ping(commands.Cog):
-    """Cog Example Description"""
+class Base(commands.Cog):
+    """Base commands"""
 
     def __init__(self, bot):
         self.bot = bot
-        # The actual db
         self.db = bot.mongo["Ping"]
-        # The collection in which we store all the main stuff
         self.main = self.db["Main"]
         self.afk_cacher.start()
 
@@ -65,21 +63,18 @@ class Ping(commands.Cog):
                     color=msg.author.color,
                 )
                 return await msg.channel.send(embed=embed)
-    '''
-    @cog_ext.cog_slash(
-        name="afk_set",
+
+    @commands.hybrid_command(
+        name="afk",
         description="""Set an afk message""",
-        guild_ids=[754108375536762880],
-        options=[
-            create_option(
-                name="message",
-                description="The message that gets sent when you're pinged or mentioned",
-                option_type=3,
-                required=True,
-            )
-        ],
+        help="""What the help command displays""",
+        brief="Brief one liner about the command",
+        aliases=[],
+        enabled=True,
+        hidden=False
     )
-    async def _afk_set(self, ctx: SlashContext, message):
+    @commands.cooldown(1.0, 5.0, commands.BucketType.user)
+    async def afk_cmd(self, ctx, message: str):
         """Set an afk message"""
         document = await self.main.find_one({"_id": ctx.author.id})
         self.bot.afk_dict[ctx.author.id] = message
@@ -95,12 +90,11 @@ class Ping(commands.Cog):
         embed = discord.Embed(
             title=f"Set AFK Message",
             description=message,
-            timestamp=datetime.datetime.utcnow(),
+            timestamp=discord.utils.utcnow(),
             color=discord.Color.green(),
         )
         await ctx.send(embed=embed)
-        '''
 
 
 def setup(bot):
-    bot.add_cog(Ping(bot))
+    bot.add_cog(Base(bot))

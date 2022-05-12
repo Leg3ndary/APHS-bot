@@ -31,23 +31,17 @@ async def start_bot():
         bot.mongo = AsyncIOMotorClient(mongo_uri)
         print("Loaded Bot DB")
 
-        async def load_cogs():
-            """Generate a cog list based on the given cog directory"""
-            cog_list = []
-            for file in os.listdir("Bot/cogs"):
-                try:
-                    if file.endswith(".py"):
-                        await bot.load_extension(f"cogs.{file[:-3]}")
-                        cog_list.append(f"cogs.{file[:-3]}")
-                        print(f"Loaded {file[:-3]}")
-                except Exception as e:
-                    print(f"Cog {file[:-3]} failed loading\nError: {e}")
+        cog_list = []
+        for file in os.listdir("Bot/cogs"):
+            try:
+                if file.endswith(".py"):
+                    await bot.load_extension(f"cogs.{file[:-3]}")
+                    cog_list.append(f"cogs.{file[:-3]}")
+                    print(f"Loaded {file[:-3]}")
+            except Exception as e:
+                print(f"Cog {file[:-3]} failed loading\nError: {e}")
 
-            bot.cog_list = cog_list
-
-
-        load_cogs()
-
+        bot.cog_list = cog_list
 
         @bot.event
         async def on_ready():
@@ -58,4 +52,4 @@ async def start_bot():
         await bot.start(config.get("Bot").get("Token"))
 
 
-asyncio.run()
+asyncio.run(start_bot())
