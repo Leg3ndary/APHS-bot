@@ -1,12 +1,28 @@
-from __future__ import print_function
-
 import json
-
 from discord.ext import commands, tasks
 import discord
 import datetime
-
 from gears.docs import Docs
+
+
+class MongoInteract:
+    """
+    Some interactions with mongo that need a class
+    """
+
+    def __init__(self, mongo) -> None:
+        """
+        Init
+        """
+        self.db = mongo["Announcements"]
+        self.main = self.db["Announcements"]
+
+    async def update_db(self) -> None:
+        """
+        Update our db with announcements that aren't found
+        """
+        with open("info/announcements.json", "r", encoding="utf8") as file:
+            latest = json.loads(file.read())
 
 
 class AnnouncementsDB:
@@ -20,23 +36,29 @@ class AnnouncementsDB:
         """
         pass
 
-    async def get_latest_day(self) -> list:
-        """Get latest days list of announcements"""
-        with open("info/a_info.json", "r", encoding="utf8") as file:
-            latest_json = json.loads(file.read())
+    async def get_latest_day(self) -> dict:
+        """Get latest days dict of announcements"""
+        with open("info/announcements.json", "r", encoding="utf8") as file:
+            latest = json.loads(file.read())
 
-        first_key = latest_json.keys()
+        lday = datetime.datetime.strftime("%A %B %-d %Y").upper()
 
-        a_list = latest_json.get(list(first_key)[0])
+        if "SATURDAY" in lday:
+            lday.replace("SATURDAY", "FRIDAY").replace(f" {datetime.datetime.strftime('%-d')} ", f" {int(datetime.datetime.strftime('%-d')) - 1} ")
+
+        elif "SUNDAY" in lday:
+            lday.replace("SUNDAY", "FRIDAY").replace(f" {datetime.datetime.strftime('%-d')} ", f" {int(datetime.datetime.strftime('%-d')) - 2} ")
+
+        a_list = latest.get()
 
         return a_list
 
     async def get_day(self, day: int) -> list:
         """Get a certain days announcement"""
-        with open("info/a_info.json", "r", encoding="utf8") as file:
-            latest_json = json.loads(file.read())
+        with open("info/announcements.json", "r", encoding="utf8") as file:
+            latest = json.loads(file.read())
         day -= 1
-        keys = list(latest_json.keys)
+        keys = list(latest.keys)
         return keys[day]
 
     async def get_all(self) -> dict:
@@ -52,8 +74,9 @@ class Announcements(commands.Cog):
         self.announce_doc = Docs()
         self.announce_db = AnnouncementsDB()
         self.update_announcements.start()
+        self.mongo = MongoInteract(bot.mongo)
 
-    def cog_unload(self):
+    async def cog_unload(self):
         self.update_announcements.cancel()
 
     @tasks.loop(minutes=10)
@@ -75,15 +98,16 @@ class Announcements(commands.Cog):
     async def announcements(self, ctx):
         """Show todays announcements"""
         if not ctx.invoked_subcommand:
-            a_list = await self.ajson.get_latest_day()
+            a_list = await self.announce_db.get_latest_day()
 
             a_formatted = ""
 
-            for announcement in a_list:
-                announcements = f"""{a_formatted}\n+ {announcement}"""
+            for day in a_list[a_list.keys()[0]]:
+                for a_name, a_a in day.items():
+                    announcements = f"""{a_formatted}\n+ {a_name} - {a_a}"""
 
             embed = discord.Embed(
-                title=f"Todays Announcements",
+                title=f"{a_list.keys()[0]} Announcements",
                 description=f"""```diff
 {announcements}
 ```""",
