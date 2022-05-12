@@ -174,9 +174,17 @@ class Docs:
         doc_content = doc.get("body").get("content")
 
         with open("info/announcements.md", "w", encoding="utf8") as file:
-            text = await self.read_strucutural_elements(doc_content)
+            text = (
+                (await self.read_strucutural_elements(doc_content))
+                .replace("\n****", "\n\n**")
+                .replace("********", "**")
+                .replace("******", "**")
+                .replace("****", "**")
+            )
             file.write(text)
             self.text = text
+
+        await self.organize_doc()
 
     async def organize_doc(self) -> None:
         """
@@ -209,7 +217,19 @@ class Docs:
             for announcement in day.split("\n\n**")[1:]:
                 a_info = list(filter(None, announcement.split("**")))
                 if a_info:
-                    if not a_info[0] == "\n":
+                    if (
+                        "WEDNESDAY SEPTEMBER 22 2021" in a_info[0]
+                        or "WEDNESDAY 7 OCTOBER, 2020" in a_info[0]
+                        or "TUESDAY 6 OCTOBER, 2020" in a_info[0]
+                        or "FRIDAY OCTOBER 2, 2020" in a_info[0]
+                        or "WEDNESDAY SEPTEMBER 30, 2020" in a_info[0]
+                        or "TUESDAY SEPTEMBER 29, 2020" in a_info[0]
+                        or "MONDAY SEPTEMBER 28, 2020" in a_info[0]
+                    ):
+                        pass
+                    elif len(a_info) == 1:
+                        pass
+                    elif not a_info[0] == "\n":
                         temp_announcements[a_info[0]] = (
                             a_info[1].replace("-", "").strip()
                         )

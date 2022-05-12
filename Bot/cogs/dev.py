@@ -163,8 +163,8 @@ class Dev(commands.Cog):
         success = 0
         for cog in self.bot.cog_list:
             try:
-                self.bot.unload_extension(cog)
-                self.bot.load_extension(cog)
+                await self.bot.unload_extension(cog)
+                await self.bot.load_extension(cog)
 
             except Exception as e:
                 cog_statuslist.append(f"- {cog} failed\n- {e}")
