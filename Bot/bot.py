@@ -14,6 +14,7 @@ bot = commands.Bot(
     intents=discord.Intents.all(),
 )
 
+
 async def start_bot():
     """
     Start the bot
@@ -23,7 +24,8 @@ async def start_bot():
         print("Loaded Bot Config")
 
         mongo_uri = (
-            config.get("Mongo").get("URI")
+            config.get("Mongo")
+            .get("URI")
             .replace("<Username>", config.get("Mongo").get("User"))
             .replace("<Password>", config.get("Mongo").get("Pass"))
         )

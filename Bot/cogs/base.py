@@ -1,10 +1,12 @@
 import discord
 from discord.ext import commands, tasks
 import datetime
-'''
+
+"""
 from discord_slash import cog_ext, SlashContext
 from discord_slash.utils.manage_commands import create_option
-'''
+"""
+
 
 async def cache_afk_messages(bot, main):
     """A function that caches our stuff"""
@@ -71,7 +73,7 @@ class Base(commands.Cog):
         brief="Brief one liner about the command",
         aliases=[],
         enabled=True,
-        hidden=False
+        hidden=False,
     )
     @commands.cooldown(1.0, 5.0, commands.BucketType.user)
     async def afk_cmd(self, ctx, message: str):
