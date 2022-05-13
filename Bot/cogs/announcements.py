@@ -146,7 +146,7 @@ class Announcements(commands.Cog):
         print("Finished save and organization")
 
     @commands.hybrid_group()
-    async def announcements_cmd(self, ctx):
+    async def announcements(self, ctx):
         """Show todays announcements"""
         if not ctx.invoked_subcommand:
             a_list = await self.announce_db.get_latest_day()
@@ -166,6 +166,10 @@ class Announcements(commands.Cog):
                 color=ctx.author.color,
             )
             await ctx.send(embed=embed)
+
+    @announcements.command()
+    async def test(self, ctx):
+        await ctx.send("testing")
 
 
 async def setup(bot):
