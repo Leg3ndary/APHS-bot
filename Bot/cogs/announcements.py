@@ -147,7 +147,7 @@ class Announcements(commands.Cog):
         print("Finished save and organization")
 
     @commands.hybrid_group()
-    async def announcements(self, ctx):
+    async def announcements_cmd(self, ctx):
         """Show todays announcements"""
         if not ctx.invoked_subcommand:
             a_list = await self.announce_db.get_latest_day()
