@@ -3,6 +3,7 @@ from discord.ext import commands, tasks
 import discord
 import datetime
 from gears.docs import Docs
+import pytz
 
 
 class MongoInteract:
@@ -47,9 +48,7 @@ class MongoInteract:
             pipeline = [{"$addFields": {"date": {"$toDate": "$date"}}}]
 
             async for doc in self.main.aggregate(pipeline):
-                await self.main.update_one(
-                    query, {"$set": {"date": doc.get("date")}}
-                )
+                await self.main.update_one(query, {"$set": {"date": doc.get("date")}})
 
 
 class AnnouncementsDB:
@@ -132,7 +131,7 @@ class Announcements(commands.Cog):
     async def cog_unload(self):
         self.update_announcements.cancel()
 
-    @tasks.loop(minutes=10)
+    @tasks.loop(time=datetime.time(hour=10, tzinfo=pytz.timezone("EST")))
     async def update_announcements(self):
         """Update our announcements documents every 10 minutes"""
         await self.announce_doc.save_doc()
