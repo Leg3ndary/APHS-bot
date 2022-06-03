@@ -147,25 +147,40 @@ class Announcements(commands.Cog):
 
     @commands.hybrid_group()
     async def announcements(self, ctx):
+        """Announcements sub group"""
+        pass
+        # shit doesn't work apparently? Idk
+            
+
+    @announcements.command(
+        name="today",
+        description="""View todays announcements""",
+        help="""View latest announcements""",
+        brief="View latest announcements",
+        aliases=[],
+        enabled=True,
+        hidden=False
+    )
+    async def today_cmd(self, ctx):
         """Show todays announcements"""
-        if not ctx.invoked_subcommand:
-            a_list = await self.announce_db.get_latest_day()
+        a_list = await self.announce_db.get_latest_day()
 
-            a_formatted = ""
-            lday = await self.announce_db.get_today()
+        a_formatted = ""
+        lday = await self.announce_db.get_today()
 
-            for a_name, a_a in a_list.items():
-                announcements = f"""{a_formatted}\n+ {a_name} - {a_a}"""
+        for a_name, a_a in a_list.items():
+            announcements = f"""{a_formatted}\n+ {a_name} - {a_a}"""
 
-            embed = discord.Embed(
-                title=f"{lday} Announcements",
-                description=f"""```diff
+        embed = discord.Embed(
+            title=f"{lday} Announcements",
+            description=f"""```diff
 {announcements}
 ```""",
-                timestamp=discord.utils.utcnow(),
-                color=ctx.author.color,
-            )
-            await ctx.send(embed=embed)
+            timestamp=discord.utils.utcnow(),
+            color=ctx.author.color,
+        )
+        await ctx.send(embed=embed)
+
 
 
 async def setup(bot):
