@@ -27,9 +27,13 @@ class AnnouncementsDB:
             self.latest = json.loads(file.read())
             self.choices = self.latest.keys()
 
-    async def get_today(self) -> Dict[str, str]:
+    async def get_latest(self) -> Dict[str, str]:
         """
         Get todays code
         """
-        today = datetime.datetime.now().strftime("%A %B %d")
-        return self.latest.get(today, {"No Announcements": "No Announcements"})
+        if datetime.datetime.now().weekday() in (5, 6):
+            altered = datetime.datetime.now() - datetime.timedelta(days=1 if datetime.datetime.now().weekday() == 5 else 2)
+            day = altered.strftime("%A %B %d")
+        else:
+            day = datetime.datetime.now().strftime("%A %B %d")
+        return self.latest.get(day, {"No Announcements": "No Announcements"})

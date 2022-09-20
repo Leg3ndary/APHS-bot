@@ -22,19 +22,21 @@ announce_doc = Docs()
 announce_db = AnnouncementsDB()
 
 
-@announcements_group.command(name="today", description="Get todays announcements")
+@announcements_group.command(name="latest", description="Get the latest announcements")
 async def announcements_today_cmd(interaction: discord.Interaction) -> None:
     """
-    Show todays announcements
+    Show the latest announcements
     """
-    todays_announcements = await announce_db.get_today()
+    latest = await announce_db.get_today()
+
+    announcement_date = datetime.datetime.fromtimestamp(latest.get("date"))
 
     embed = discord.Embed(
-        title="Todays Announcements",
+        title=f"{announcement_date.strftime('%A %B %d')}",
         timestamp=discord.utils.utcnow(),
         color=discord.Color.blue(),
     )
-    for name, announcement in todays_announcements.items():
+    for name, announcement in latest.items():
         if name != "timestamp":
             embed.add_field(name=name, value=announcement, inline=False)
     await interaction.response.send_message(embed=embed)
@@ -83,21 +85,23 @@ async def update_announcements() -> None:
     if datetime.datetime.now().weekday() in (5, 6):
         return
     await announce_doc.save_doc()
-    await asyncio.sleep(1)  # just in case buffering
+    await asyncio.sleep(1)
     await announce_db.update_latest()
     await asyncio.sleep(1)
 
     webhook = discord.Webhook.from_url(
         url=bot.config.get("Bot").get("AnnouncementsWebhook"), session=bot.session
     )
-    todays_announcements = await announce_db.get_today()
+    latest = await announce_db.get_today()
+
+    announcement_date = datetime.datetime.fromtimestamp(latest.get("date"))
 
     embed = discord.Embed(
-        title="Todays Announcements",
+        title=f"{announcement_date.strftime('%A %B %d')}",
         timestamp=discord.utils.utcnow(),
         color=discord.Color.blue(),
     )
-    for name, announcement in todays_announcements.items():
+    for name, announcement in latest.items():
         if name != "timestamp":
             embed.add_field(name=name, value=announcement, inline=False)
 
