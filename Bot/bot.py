@@ -116,7 +116,7 @@ async def on_ready() -> None:
     print(f"Bot {bot.user} has logged in")
 
     print("Starting Doc Save")
-    # await announce_doc.save_doc()
+    await announce_doc.save_doc()
     await announce_db.update_latest()
     print("Finished save and organization")
     update_announcements.start()
