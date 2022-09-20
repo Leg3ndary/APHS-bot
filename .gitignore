@@ -129,8 +129,5 @@ dmypy.json
 .pyre/
 
 # credentials
-credentials.json
-token.json
-config.json
-
+credentials/
 data/
