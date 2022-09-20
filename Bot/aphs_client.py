@@ -2,6 +2,7 @@
 Small custom client
 """
 
+import aiohttp
 import discord
 
 
@@ -19,6 +20,7 @@ class APHSClient(discord.Client):
             self
         )
         self.config: dict
+        self.session: aiohttp.ClientSession()
 
     async def setup_hook(self) -> None:
         """

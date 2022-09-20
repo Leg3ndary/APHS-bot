@@ -1,10 +1,14 @@
 import asyncio
+import datetime
 import json
 from typing import List
 
+import aiohttp
 import discord
+import pytz
 from announcements import AnnouncementsDB
 from aphs_client import APHSClient
+from discord.ext import tasks
 from docs import Docs
 
 with open("credentials/config.json", "r", encoding="utf8") as credentials:
@@ -41,6 +45,9 @@ async def on_autocomplete(
     interaction: discord.Interaction,
     current: str,
 ) -> List[discord.app_commands.Choice[str]]:
+    """
+    The autocomplete function for specific days
+    """
     return [
         discord.app_commands.Choice(name=choice, value=choice)
         for choice in announce_db.choices
@@ -69,6 +76,34 @@ async def announcements_on_cmd(interaction: discord.Interaction, day: str) -> No
     await interaction.response.send_message(embed=embed)
 
 
+@tasks.loop(time=datetime.time(hour=10, tzinfo=pytz.timezone("EST")))
+async def update_announcements() -> None:
+    """
+    Update our announcements documents every day at 10am EST
+    """
+    print("Sending Announcements")
+    await announce_doc.save_doc()
+    await asyncio.sleep(1)  # just in case buffering
+    await announce_db.update_latest()
+    await asyncio.sleep(1)
+
+    webhook = discord.Webhook.from_url(
+        url=bot.config.get("Bot").get("AnnouncementsWebhook"), session=bot.session
+    )
+    todays_announcements = await announce_db.get_today()
+
+    embed = discord.Embed(
+        title="Todays Announcements",
+        timestamp=discord.utils.utcnow(),
+        color=discord.Color.blue(),
+    )
+    for name, announcement in todays_announcements.items():
+        if name != "timestamp":
+            embed.add_field(name=name, value=announcement, inline=False)
+
+    await webhook.send(embed=embed)
+
+
 bot.tree.add_command(announcements_group)
 
 
@@ -84,6 +119,7 @@ async def on_ready() -> None:
     # await announce_doc.save_doc()
     await announce_db.update_latest()
     print("Finished save and organization")
+    update_announcements.start()
 
 
 async def start_bot() -> None:
@@ -93,6 +129,7 @@ async def start_bot() -> None:
     async with bot:
         bot.config = config
         print("Set Bot Config")
+        bot.session = aiohttp.ClientSession()
 
         await bot.start(config.get("Bot").get("Token"))
 
