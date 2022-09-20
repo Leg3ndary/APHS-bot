@@ -27,7 +27,7 @@ async def announcements_today_cmd(interaction: discord.Interaction) -> None:
     """
     Show the latest announcements
     """
-    latest = await announce_db.get_today()
+    latest = await announce_db.get_latest()
 
     announcement_date = datetime.datetime.fromtimestamp(latest.get("timestamp"))
 
@@ -92,7 +92,7 @@ async def update_announcements() -> None:
     webhook = discord.Webhook.from_url(
         url=bot.config.get("Bot").get("AnnouncementsWebhook"), session=bot.session
     )
-    latest = await announce_db.get_today()
+    latest = await announce_db.get_latest()
 
     announcement_date = datetime.datetime.fromtimestamp(latest.get("timestamp"))
 
