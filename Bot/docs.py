@@ -173,7 +173,7 @@ class Docs:
         doc = docs_service.documents().get(documentId=self.DOCUMENT_ID).execute()
         doc_content = doc.get("body").get("content")
 
-        with open("info/announcements.md", "w", encoding="utf8") as announcements:
+        with open("data/announcements.md", "w", encoding="utf8") as announcements:
             text = (
                 (await self.read_strucutural_elements(doc_content))
                 .replace("\n****", "\n\n**")
@@ -235,5 +235,5 @@ class Docs:
 
                 full[day.split("\n\n")[0].strip()] = temp_announcements
 
-        with open("info/announcements.json", "w", encoding="utf8") as announcements:
+        with open("data/announcements.json", "w", encoding="utf8") as announcements:
             json.dump(full, announcements, indent=4)
