@@ -1,4 +1,6 @@
+import datetime
 import json
+import re
 
 import googleapiclient.discovery
 from httplib2 import Http
@@ -65,7 +67,8 @@ class Docs:
         return credentials
 
     async def read_paragraph_element(self, element: dict) -> str:
-        """Returns the text in the given ParagraphElement.
+        """
+        Returns the text in the given ParagraphElement.
 
         Parameters
         ----------
@@ -109,8 +112,7 @@ class Docs:
         if is_bolded and magnitude == 10:
             return f"**{text_run.get('content', '').replace('-', '').strip()}**"
 
-        else:
-            return text_run.get("content", "")
+        return text_run.get("content", "")
 
     async def read_strucutural_elements(self, elements: list) -> None:
         """
@@ -127,14 +129,29 @@ class Docs:
         Not sure
         """
         text = ""
+        with open("data/raw_elements.json", "w", encoding="utf8") as raw_elements:
+            json.dump(elements, raw_elements, indent=4)
+        flag = False
         for value in elements:
             if "paragraph" in value:
                 elements = value.get("paragraph").get("elements")
-                for elem in elements:
-                    text += await self.read_paragraph_element(elem)
 
-            # This shouldn't ever happen, unless some teacher wants to add a table, uh oh.
+                for elem in elements:
+                    if elem.get("textRun"):
+                        if "APHS DAILY ANNOUNCEMENTS - 2022 - 2023\n" in elem.get(
+                            "textRun"
+                        ).get("content"):
+                            flag = True
+                        elif "SCHOOL YEAR 2021 - 2022\n" in elem.get("textRun").get(
+                            "content"
+                        ):
+                            flag = False
+                    if flag:
+                        text += await self.read_paragraph_element(elem)
+
             """
+            This shouldn't ever happen, unless some teacher wants to add a table, uh oh.
+            
             elif "table" in value:
                 # The text in table cells are in nested Structural Elements and tables may be
                 # nested.
@@ -174,6 +191,7 @@ class Docs:
         doc_content = doc.get("body").get("content")
 
         with open("data/announcements.md", "w", encoding="utf8") as announcements:
+            # I don't know what this is, I should probably change to regex later
             text = (
                 (await self.read_strucutural_elements(doc_content))
                 .replace("\n****", "\n\n**")
@@ -213,27 +231,31 @@ class Docs:
 
         for day in days_split:
             temp_announcements = {}
-            if not (
-                "WEDNESDAY SEPTEMBER 22 2021" in day
-                or "WEDNESDAY 7 OCTOBER, 2020" in day
-                or "TUESDAY 6 OCTOBER, 2020" in day
-                or "FRIDAY OCTOBER 2, 2020" in day
-                or "WEDNESDAY SEPTEMBER 30, 2020" in day
-                or "TUESDAY SEPTEMBER 29, 2020" in day
-                or "MONDAY SEPTEMBER 28, 2020" in day
-                or "MONDAY 19 OCTOBER 2020" in day
-            ):
-                for announcement in day.split("\n\n**")[1:]:
-                    a_info = list(filter(None, announcement.split("**")))
-                    if a_info:
-                        if len(a_info) == 1:
-                            pass
-                        elif not a_info[0] == "\n":
-                            temp_announcements[a_info[0]] = (
-                                a_info[1].replace("-", "").strip()
-                            )
+            for announcement in day.split("\n\n**")[1:]:
+                a_info = list(filter(None, announcement.split("**")))
+                if a_info:
+                    if len(a_info) == 1:
+                        pass
+                    elif not a_info[0] == "\n":
 
-                full[day.split("\n\n")[0].strip()] = temp_announcements
+                        cleansed = re.sub(r"^- ", "", a_info[1].strip())
+                        if cleansed[0].isalpha():
+                            if cleansed[0] == cleansed[0].lower():
+                                cleansed = f"{a_info[0]} {cleansed}"
+                        temp_announcements[a_info[0]] = cleansed
+
+            day_info = day.split("\n\n")[0].strip().split(" ")
+            day_name = day_info[0].capitalize()
+            month = day_info[1][:3].capitalize()
+            date = day_info[2]
+            datetime_info = datetime.datetime.strptime(
+                f"{day_name} {month} {date} 2022", "%A %b %d %Y"
+            )
+            temp_announcements["timestamp"] = int(datetime_info.timestamp())
+
+            full[
+                datetime_info.strftime("%A %B %d")
+            ] = temp_announcements  # this will fail in 2023 if they start adding the year.
 
         with open("data/announcements.json", "w", encoding="utf8") as announcements:
             json.dump(full, announcements, indent=4)
