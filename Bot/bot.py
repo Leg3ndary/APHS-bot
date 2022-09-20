@@ -5,7 +5,6 @@ from typing import List
 
 import aiohttp
 import discord
-import pytz
 from announcements import AnnouncementsDB
 from aphs_client import APHSClient
 from discord.ext import tasks
@@ -76,12 +75,13 @@ async def announcements_on_cmd(interaction: discord.Interaction, day: str) -> No
     await interaction.response.send_message(embed=embed)
 
 
-@tasks.loop(time=datetime.time(hour=10, tzinfo=pytz.timezone("EST")))
+@tasks.loop(time=datetime.time(hour=13, minute=30, second=0))
 async def update_announcements() -> None:
     """
     Update our announcements documents every day at 10am EST
     """
-    print("Sending Announcements")
+    if datetime.datetime.now().weekday() in (5, 6):
+        return
     await announce_doc.save_doc()
     await asyncio.sleep(1)  # just in case buffering
     await announce_db.update_latest()
