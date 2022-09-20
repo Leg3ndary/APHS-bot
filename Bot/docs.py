@@ -1,22 +1,22 @@
-import googleapiclient.discovery
-from httplib2 import Http
-from oauth2client import client
-from oauth2client import file
-from oauth2client import tools
-import re
 import json
 
-from regex import E
+import googleapiclient.discovery
+from httplib2 import Http
+from oauth2client import client, file, tools
 
 
 class Docs:
-    """Class for accessing info about the announcements doc"""
+    """
+    Class for accessing info about the announcements doc
+    """
 
     def __init__(self) -> None:
         """
         Initiates with all the info that we need
         """
-        config = json.load(open("credentials/config.json"))
+        self.text: str = None
+        with open("credentials/config.json", "r", encoding="utf8") as credentials:
+            config = json.loads(credentials.read())
         self.SCOPES = "https://www.googleapis.com/auth/documents.readonly"
         self.DISCOVERY_DOC = "https://docs.googleapis.com/$discovery/rest?version=v1"
         self.DOCUMENT_ID = config.get("Google").get("DOCID")
@@ -173,7 +173,7 @@ class Docs:
         doc = docs_service.documents().get(documentId=self.DOCUMENT_ID).execute()
         doc_content = doc.get("body").get("content")
 
-        with open("info/announcements.md", "w", encoding="utf8") as file:
+        with open("info/announcements.md", "w", encoding="utf8") as announcements:
             text = (
                 (await self.read_strucutural_elements(doc_content))
                 .replace("\n****", "\n\n**")
@@ -181,7 +181,7 @@ class Docs:
                 .replace("******", "**")
                 .replace("****", "**")
             )
-            file.write(text)
+            announcements.write(text)
             self.text = text
 
         await self.organize_doc()
@@ -235,5 +235,5 @@ class Docs:
 
                 full[day.split("\n\n")[0].strip()] = temp_announcements
 
-        with open("info/announcements.json", "w", encoding="utf8") as file:
-            json.dump(full, file, indent=4)
+        with open("info/announcements.json", "w", encoding="utf8") as announcements:
+            json.dump(full, announcements, indent=4)
