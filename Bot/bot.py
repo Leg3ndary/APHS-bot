@@ -29,7 +29,7 @@ async def announcements_today_cmd(interaction: discord.Interaction) -> None:
     """
     latest = await announce_db.get_today()
 
-    announcement_date = datetime.datetime.fromtimestamp(latest.get("date"))
+    announcement_date = datetime.datetime.fromtimestamp(latest.get("timestamp"))
 
     embed = discord.Embed(
         title=f"{announcement_date.strftime('%A %B %d')}",
@@ -94,7 +94,7 @@ async def update_announcements() -> None:
     )
     latest = await announce_db.get_today()
 
-    announcement_date = datetime.datetime.fromtimestamp(latest.get("date"))
+    announcement_date = datetime.datetime.fromtimestamp(latest.get("timestamp"))
 
     embed = discord.Embed(
         title=f"{announcement_date.strftime('%A %B %d')}",
