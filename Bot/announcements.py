@@ -32,7 +32,9 @@ class AnnouncementsDB:
         Get todays code
         """
         if datetime.datetime.now().weekday() in (5, 6):
-            altered = datetime.datetime.now() - datetime.timedelta(days=1 if datetime.datetime.now().weekday() == 5 else 2)
+            altered = datetime.datetime.now() - datetime.timedelta(
+                days=1 if datetime.datetime.now().weekday() == 5 else 2
+            )
             day = altered.strftime("%A %B %d")
         else:
             day = datetime.datetime.now().strftime("%A %B %d")

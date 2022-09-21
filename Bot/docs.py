@@ -19,7 +19,7 @@ class Docs:
         self.text: str = None
         with open("credentials/config.json", "r", encoding="utf8") as credentials:
             config = json.loads(credentials.read())
-        self.SCOPES = "https://www.googleapis.com/auth/documents.readonly"
+        self.SCOPES = ["https://www.googleapis.com/auth/documents.readonly", "https://www.googleapis.com/auth/spreadsheets.readonly"]
         self.DISCOVERY_DOC = "https://docs.googleapis.com/$discovery/rest?version=v1"
         self.DOCUMENT_ID = config.get("Google").get("DOCID")
 
