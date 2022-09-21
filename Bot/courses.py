@@ -49,6 +49,8 @@ class CoursesManager:
     ]
 
     courses: List[Course] = []
+    course_codes: List[str] = []
+    course_names: List[str] = []
 
     def __init__(self) -> None:
         """
@@ -99,3 +101,6 @@ class CoursesManager:
         courses = await self.get_courses()
         for course in courses:
             self.courses.append(Course(course))
+            self.course_codes.append(course[0])
+            if course[2] is not None:
+                self.course_names.append(course[2])

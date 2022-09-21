@@ -7,6 +7,7 @@ import aiohttp
 import discord
 from announcements import AnnouncementsDB
 from aphs_client import APHSClient
+from courses import CoursesManager
 from discord.ext import tasks
 from docs import Docs
 
@@ -16,7 +17,7 @@ with open("credentials/config.json", "r", encoding="utf8") as credentials:
 bot = APHSClient()
 
 announcements_group: discord.app_commands.Group = discord.app_commands.Group(
-    name="announcements", description="Get announcements"
+    name="announcements", description="Announcements related commands"
 )
 announce_doc = Docs()
 announce_db = AnnouncementsDB()
@@ -53,7 +54,7 @@ async def on_autocomplete(
         discord.app_commands.Choice(name=choice, value=choice)
         for choice in announce_db.choices
         if current.lower() in choice.lower()
-    ]
+    ][:25]
 
 
 @announcements_group.command(name="on", description="Announcements on a specific day")
@@ -111,6 +112,134 @@ async def update_announcements() -> None:
 bot.tree.add_command(announcements_group)
 
 
+courses_group: discord.app_commands.Group = discord.app_commands.Group(
+    name="courses", description="Course related commands"
+)
+course_manager = CoursesManager()
+
+async def course_code_autocomplete(
+    interaction: discord.Interaction,
+    current: str,
+) -> List[discord.app_commands.Choice[str]]:
+    """
+    The autocomplete function for course codes
+    """
+    return [
+        discord.app_commands.Choice(name=choice, value=choice)
+        for choice in course_manager.course_codes
+        if current.lower() in choice.lower()
+    ][:25]
+
+@courses_group.command(name="code", description="Search for a course by it's corresponding course code")
+@discord.app_commands.autocomplete(code=course_code_autocomplete)
+async def courses_code_cmd(interaction: discord.Interaction, code: str) -> None:
+    """
+    Find a course by it's code
+    """
+    course = [course for course in course_manager.courses if course.course_code == code][0]
+
+    embed = discord.Embed(
+        title=f"{course.name}",
+        description=course.description.replace("\n", ""),
+        timestamp=discord.utils.utcnow(),
+        color=discord.Color.yellow()
+    )
+    embed.add_field(
+        name="Prerequisites",
+        value=course.prerequisites,
+        inline=False
+    )
+    embed.add_field(
+        name="Grading Breakdown",
+        value=f"""```yaml
+Knowledge/Understanding: {course.knowledge_understanding}%
+Application:             {course.application}%
+Thinking:                {course.thinking}%
+Communication:           {course.communication}%
+
+Performance Task:        {course.performance_task}%
+Final Exam:              {course.final_exam}%
+
+Total:                   {course.total}%
+```""",
+        inline=False
+    )
+    embed.add_field(
+        name="Additional Details",
+        value=course.additional_details,
+        inline=False
+    )
+    embed.set_author(
+        name=f"{course.course_code} - Exam Length: {course.evaluation_duration}"
+    )
+    embed.set_footer(
+        text=f"Last Revised {course.last_revision}"
+    )
+    await interaction.response.send_message(embed=embed)
+
+async def course_name_autocomplete(
+    interaction: discord.Interaction,
+    current: str,
+) -> List[discord.app_commands.Choice[str]]:
+    """
+    The autocomplete function for course codes
+    """
+    return [
+        discord.app_commands.Choice(name=choice, value=choice)
+        for choice in course_manager.course_names
+        if current.lower() in choice.lower()
+    ][:25]
+
+@courses_group.command(name="name", description="Search for a course by it's name")
+@discord.app_commands.autocomplete(name=course_name_autocomplete)
+async def courses_name_cmd(interaction: discord.Interaction, name: str) -> None:
+    """
+    Find a course by it's name
+    """
+    course = [course for course in course_manager.courses if course.name == name][0]
+
+    embed = discord.Embed(
+        title=f"{course.name}",
+        description=course.description.replace("\n", ""),
+        timestamp=discord.utils.utcnow(),
+        color=discord.Color.yellow()
+    )
+    embed.add_field(
+        name="Prerequisites",
+        value=course.prerequisites,
+        inline=False
+    )
+    embed.add_field(
+        name="Grading Breakdown",
+        value=f"""```yaml
+Knowledge/Understanding: {course.knowledge_understanding}%
+Application:             {course.application}%
+Thinking:                {course.thinking}%
+Communication:           {course.communication}%
+
+Performance Task:        {course.performance_task}%
+Final Exam:              {course.final_exam}%
+
+Total:                   {course.total}%
+```""",
+        inline=False
+    )
+    embed.add_field(
+        name="Additional Details",
+        value=course.additional_details,
+        inline=False
+    )
+    embed.set_author(
+        name=f"{course.course_code} - Exam Length: {course.evaluation_duration}"
+    )
+    embed.set_footer(
+        text=f"Last Revised {course.last_revision}"
+    )
+    await interaction.response.send_message(embed=embed)
+
+bot.tree.add_command(courses_group)
+
+
 @bot.event
 async def on_ready() -> None:
     """
@@ -120,9 +249,11 @@ async def on_ready() -> None:
     print(f"Bot {bot.user} has logged in")
 
     print("Starting Doc Save")
-    await announce_doc.save_doc()
+    # await announce_doc.save_doc()
     await announce_db.update_latest()
     print("Finished save and organization")
+
+    await course_manager.build_courses()
     update_announcements.start()
 
 
