@@ -7,6 +7,7 @@ import aiohttp
 import discord
 from announcements import AnnouncementsDB
 from aphs_client import APHSClient
+from colorama import Fore, Style
 from courses import CoursesManager
 from discord.ext import tasks
 from docs import Docs
@@ -117,6 +118,7 @@ courses_group: discord.app_commands.Group = discord.app_commands.Group(
 )
 course_manager = CoursesManager()
 
+
 async def course_code_autocomplete(
     interaction: discord.Interaction,
     current: str,
@@ -130,25 +132,26 @@ async def course_code_autocomplete(
         if current.lower() in choice.lower()
     ][:25]
 
-@courses_group.command(name="code", description="Search for a course by it's corresponding course code")
+
+@courses_group.command(
+    name="code", description="Search for a course by it's corresponding course code"
+)
 @discord.app_commands.autocomplete(code=course_code_autocomplete)
 async def courses_code_cmd(interaction: discord.Interaction, code: str) -> None:
     """
     Find a course by it's code
     """
-    course = [course for course in course_manager.courses if course.course_code == code][0]
+    course = [
+        course for course in course_manager.courses if course.course_code == code
+    ][0]
 
     embed = discord.Embed(
         title=f"{course.name}",
         description=course.description.replace("\n", ""),
         timestamp=discord.utils.utcnow(),
-        color=discord.Color.yellow()
+        color=discord.Color.yellow(),
     )
-    embed.add_field(
-        name="Prerequisites",
-        value=course.prerequisites,
-        inline=False
-    )
+    embed.add_field(name="Prerequisites", value=course.prerequisites, inline=False)
     embed.add_field(
         name="Grading Breakdown",
         value=f"""```yaml
@@ -162,20 +165,17 @@ Final Exam:              {course.final_exam}%
 
 Total:                   {course.total}%
 ```""",
-        inline=False
+        inline=False,
     )
     embed.add_field(
-        name="Additional Details",
-        value=course.additional_details,
-        inline=False
+        name="Additional Details", value=course.additional_details, inline=False
     )
     embed.set_author(
         name=f"{course.course_code} - Exam Length: {course.evaluation_duration}"
     )
-    embed.set_footer(
-        text=f"Last Revised {course.last_revision}"
-    )
+    embed.set_footer(text=f"Last Revised {course.last_revision}")
     await interaction.response.send_message(embed=embed)
+
 
 async def course_name_autocomplete(
     interaction: discord.Interaction,
@@ -190,6 +190,7 @@ async def course_name_autocomplete(
         if current.lower() in choice.lower()
     ][:25]
 
+
 @courses_group.command(name="name", description="Search for a course by it's name")
 @discord.app_commands.autocomplete(name=course_name_autocomplete)
 async def courses_name_cmd(interaction: discord.Interaction, name: str) -> None:
@@ -202,13 +203,9 @@ async def courses_name_cmd(interaction: discord.Interaction, name: str) -> None:
         title=f"{course.name}",
         description=course.description.replace("\n", ""),
         timestamp=discord.utils.utcnow(),
-        color=discord.Color.yellow()
+        color=discord.Color.yellow(),
     )
-    embed.add_field(
-        name="Prerequisites",
-        value=course.prerequisites,
-        inline=False
-    )
+    embed.add_field(name="Prerequisites", value=course.prerequisites, inline=False)
     embed.add_field(
         name="Grading Breakdown",
         value=f"""```yaml
@@ -222,20 +219,17 @@ Final Exam:              {course.final_exam}%
 
 Total:                   {course.total}%
 ```""",
-        inline=False
+        inline=False,
     )
     embed.add_field(
-        name="Additional Details",
-        value=course.additional_details,
-        inline=False
+        name="Additional Details", value=course.additional_details, inline=False
     )
     embed.set_author(
         name=f"{course.course_code} - Exam Length: {course.evaluation_duration}"
     )
-    embed.set_footer(
-        text=f"Last Revised {course.last_revision}"
-    )
+    embed.set_footer(text=f"Last Revised {course.last_revision}")
     await interaction.response.send_message(embed=embed)
+
 
 bot.tree.add_command(courses_group)
 
@@ -246,14 +240,18 @@ async def on_ready() -> None:
     On ready tell us
     """
     await bot.wait_until_ready()
-    print(f"Bot {bot.user} has logged in")
+    print(f"{Fore.CYAN}Bot {bot.user} has logged on.{Style.RESET_ALL}")
 
-    print("Starting Doc Save")
-    # await announce_doc.save_doc()
+    print(
+        f"{Fore.YELLOW}Saving announcements to data/announcements.json and data/announcements.md...{Style.RESET_ALL}"
+    )
+    await announce_doc.save_doc()
     await announce_db.update_latest()
-    print("Finished save and organization")
+    print(f"{Fore.GREEN}Finished.{Style.RESET_ALL}")
 
+    print(f"{Fore.YELLOW}Building courses and related data...{Style.RESET_ALL}")
     await course_manager.build_courses()
+    print(f"{Fore.GREEN}Finished.{Style.RESET_ALL}")
     update_announcements.start()
 
 
@@ -263,7 +261,6 @@ async def start_bot() -> None:
     """
     async with bot:
         bot.config = config
-        print("Set Bot Config")
         bot.session = aiohttp.ClientSession()
 
         await bot.start(config.get("Bot").get("Token"))

@@ -4,6 +4,7 @@ Small custom client
 
 import aiohttp
 import discord
+from colorama import Fore, Style
 
 
 class APHSClient(discord.Client):
@@ -26,6 +27,6 @@ class APHSClient(discord.Client):
         """
         On setup sync commands
         """
-        print("Syncing commands")
+        print(f"{Fore.YELLOW}Syncing commands up with discord...{Style.RESET_ALL}")
         await self.tree.sync()
-        print("Done")
+        print(f"{Fore.GREEN}Done{Style.RESET_ALL}")
