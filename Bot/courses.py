@@ -1,4 +1,5 @@
 from __future__ import print_function
+import asyncio
 
 import os.path
 from typing import List
@@ -32,7 +33,7 @@ class Course:
         self.total: int = int(course[11])
         self.evaluation_duration: str = course[12]
         self.last_revision: str = course[13]
-        self.additional_details: str = course[14]
+        self.additional_details: str = course[14] if len(course) == 15 else ""
 
 class CoursesManager:
     """
@@ -50,15 +51,15 @@ class CoursesManager:
         Run the flow
         """
         creds = None
-        if os.path.exists("credentials/token.json"):
-            creds = Credentials.from_authorized_user_file("credentials/token.json", self.SCOPES)
+        if os.path.exists("credentials/token2.json"):
+            creds = Credentials.from_authorized_user_file("credentials/token2.json", self.SCOPES)
         if not creds or not creds.valid:
             if creds and creds.expired and creds.refresh_token:
                 creds.refresh(Request())
             else:
                 flow = InstalledAppFlow.from_client_secrets_file("credentials/credentials.json", self.SCOPES)
                 creds = flow.run_local_server(port=0)
-            with open("credentials/token.json", "w", encoding="utf8") as token:
+            with open("credentials/token2.json", "w", encoding="utf8") as token:
                 token.write(creds.to_json())
         self.creds = creds
 
@@ -89,3 +90,5 @@ class CoursesManager:
         courses = await self.get_courses()
         for course in courses:
             self.courses.append(Course(course))
+
+asyncio.run(CoursesManager().build_courses())
