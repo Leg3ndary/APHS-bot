@@ -250,10 +250,17 @@ class Docs:
             day_info = day.split("\n\n")[0].strip().split(" ")
             day_name = day_info[0].capitalize()
             month = day_info[1][:3].capitalize()
-            date = day_info[2]
-            datetime_info = datetime.datetime.strptime(
-                f"{day_name} {month} {date} 2022", "%A %b %d %Y"
-            )
+            date = day_info[2].capitalize()
+            year = datetime.datetime.now().year
+
+            try:
+                datetime_info = datetime.datetime.strptime(
+                    f"{day_name} {month} {date} {year}", "%A %b %d %Y"
+                )
+            except ValueError:
+                datetime_info = datetime.datetime.strptime(
+                    f"{day_name} {month} {date} {year}", "%A %d %b %Y"
+                )
             temp_announcements["timestamp"] = int(datetime_info.timestamp())
 
             full[
