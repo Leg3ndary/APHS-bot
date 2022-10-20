@@ -87,9 +87,11 @@ async def update_announcements() -> None:
     if datetime.datetime.now().weekday() in (5, 6):
         return
     await announce_doc.save_doc()
-    await asyncio.sleep(1)
+    await asyncio.sleep(5)
+    print("Saved document")
     await announce_db.update_latest()
-    await asyncio.sleep(1)
+    await asyncio.sleep(5)
+    print("Updated latest announcements")
 
     webhook = discord.Webhook.from_url(
         url=bot.config.get("Bot").get("AnnouncementsWebhook"), session=bot.session
