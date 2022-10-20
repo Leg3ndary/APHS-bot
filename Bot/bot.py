@@ -98,10 +98,10 @@ async def update_announcements() -> None:
     )
     latest = await announce_db.get_latest()
 
-    announcement_date = datetime.datetime.fromtimestamp(latest.get("timestamp"))
+    # announcement_date = datetime.datetime.fromtimestamp(latest.get("timestamp"))
 
     embed = discord.Embed(
-        title=f"{announcement_date.strftime('%A %B %d')}",
+        title=f"{datetime.datetime.now().strftime('%A %B %d')}",
         timestamp=discord.utils.utcnow(),
         color=discord.Color.blue(),
     )
