@@ -79,29 +79,27 @@ async def announcements_on_cmd(interaction: discord.Interaction, day: str) -> No
     await interaction.response.send_message(embed=embed)
 
 
-@tasks.loop(time=datetime.time(hour=13, minute=30, second=0))
+@tasks.loop(time=datetime.time(hour=13, minute=25, second=0))
 async def update_announcements() -> None:
     """
-    Update our announcements documents every day at 10am EST
+    Update our announcements documents every day at 9:25am EST
     """
     if datetime.datetime.now().weekday() in (5, 6):
         return
     await announce_doc.save_doc()
-    await asyncio.sleep(5)
-    print("Saved document")
     await announce_db.update_latest()
-    await asyncio.sleep(5)
     print("Updated latest announcements")
 
     webhook = discord.Webhook.from_url(
         url=bot.config.get("Bot").get("AnnouncementsWebhook"), session=bot.session
     )
+
     latest = await announce_db.get_latest()
 
-    # announcement_date = datetime.datetime.fromtimestamp(latest.get("timestamp"))
+    announcement_date = datetime.datetime.fromtimestamp(latest.get("timestamp"))
 
     embed = discord.Embed(
-        title=f"{datetime.datetime.now().strftime('%A %B %d')}",
+        title=f"{announcement_date.strftime('%A %B %d')}",
         timestamp=discord.utils.utcnow(),
         color=discord.Color.blue(),
     )
