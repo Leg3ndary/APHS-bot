@@ -9,7 +9,7 @@ from announcements import AnnouncementsDB
 from aphs_client import APHSClient
 from colorama import Fore, Style
 from courses import CoursesManager
-from discord.ext import tasks
+from discord.ext import tasks, commands
 from docs import Docs
 
 with open("credentials/config.json", "r", encoding="utf8") as credentials:
@@ -255,6 +255,14 @@ async def on_ready() -> None:
     await course_manager.build_courses()
     print(f"{Fore.GREEN}Finished.{Style.RESET_ALL}")
     update_announcements.start()
+
+
+@bot.event
+async def on_command_error(ctx, error: commands.CommandError) -> None:
+    """
+    On command error raise it so I can actually see what's happening
+    """
+    raise error
 
 
 async def start_bot() -> None:
